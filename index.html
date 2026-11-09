@@ -31,6 +31,11 @@
 
   <div id="statusBanner" class="hidden"></div>
 
+  <div id="zoomControls">
+    <button type="button" id="zoomIn" title="Zoom in">+</button>
+    <button type="button" id="zoomOut" title="Zoom out">−</button>
+  </div>
+
   <div id="loader">
     <div class="loader-inner">
       <h1>Loading</h1>
@@ -40,5 +45,14 @@
 
   <script src="https://cdn.jsdelivr.net/npm/cesium@1.122.0/Build/Cesium/Cesium.js"></script>
   <script src="js/app.js"></script>
+  <script
+    src="https://livepill.lonormal.com/livepill.js"
+    data-position="bottom-left"
+    data-bg="#000000"
+    data-color="#ffffff"
+    data-label-color="#c8c8c8"
+    data-dot="#3b82f6"
+    data-label="live"
+    data-offset="18px"></script>
 </body>
 </html>

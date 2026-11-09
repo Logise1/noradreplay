@@ -298,13 +298,18 @@ function bindUi(viewer) {
 
   const MIN_RANGE = 2500;
   const MAX_RANGE = 2e7;
+  const ZOOM_FACTOR = 1.22;
+  function zoomBy(factor) {
+    state.cameraRange = Cesium.Math.clamp(state.cameraRange * factor, MIN_RANGE, MAX_RANGE);
+  }
+  document.getElementById("zoomIn").addEventListener("click", () => zoomBy(1 / ZOOM_FACTOR));
+  document.getElementById("zoomOut").addEventListener("click", () => zoomBy(ZOOM_FACTOR));
   const canvas = viewer.cesiumWidget.canvas;
   canvas.addEventListener(
     "wheel",
     (event) => {
       event.preventDefault();
-      const factor = event.deltaY > 0 ? 1.22 : 1 / 1.22;
-      state.cameraRange = Cesium.Math.clamp(state.cameraRange * factor, MIN_RANGE, MAX_RANGE);
+      zoomBy(event.deltaY > 0 ? ZOOM_FACTOR : 1 / ZOOM_FACTOR);
     },
     { passive: false }
   );
