@@ -1,0 +1,180 @@
+@font-face {
+  font-family: "museo3";
+  src: url("../assets/fonts/museosans_300.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "museo7";
+  src: url("../assets/fonts/museosans_700.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  font-family: "museo3", "Segoe UI", Tahoma, sans-serif;
+  user-select: none;
+}
+
+#cesiumContainer,
+.cesium-viewer,
+.cesium-viewer-cesiumWidgetContainer,
+.cesium-widget,
+.cesium-widget canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.cesium-viewer-bottom,
+.cesium-viewer-toolbar,
+.cesium-viewer-animationContainer,
+.cesium-viewer-timelineContainer,
+.cesium-credit-logoContainer,
+.cesium-credit-expand-link {
+  display: none !important;
+}
+
+#snow {
+  position: fixed;
+  inset: 0;
+  z-index: 7;
+  pointer-events: none;
+}
+
+#hud {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 6;
+  box-sizing: border-box;
+  font-size: 0.9em;
+  color: #ffffff;
+  background: url("../assets/images/bg-space.jpg") top left repeat-x #001a35;
+  padding: 0 16px 8px 16px;
+  height: 5vh;
+  min-height: 45px;
+  overflow: hidden;
+}
+
+#hud::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.hud-panel {
+  float: left;
+  padding: 5px 0 0 0;
+  margin: 0;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+#lastSpottedPanel {
+  width: 35%;
+}
+
+#headedForPanel {
+  width: 45%;
+}
+
+#giftCountPanel {
+  width: 20%;
+  float: right;
+}
+
+.hud-label {
+  font-family: "museo7", "Segoe UI", Tahoma, Arial, sans-serif;
+  font-size: 0.85em;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.hud-value {
+  font-family: "museo3", "Segoe UI", Tahoma, sans-serif;
+  font-size: 1.2em;
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0;
+  color: #ffffff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: none;
+}
+
+#statusBanner {
+  position: fixed;
+  top: calc(5vh + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 6;
+  padding: 10px 18px;
+  border-radius: 4px;
+  background: rgba(8, 24, 44, 0.82);
+  border: 1px solid rgba(190, 220, 255, 0.25);
+  font-size: 18px;
+  letter-spacing: 0.03em;
+}
+
+#loader {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  background: #041018;
+}
+
+.loader-inner {
+  text-align: center;
+}
+
+.loader-inner h1 {
+  margin: 0;
+  font-size: 42px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.loader-inner p {
+  margin: 10px 0 0;
+  color: #b9d3ea;
+  letter-spacing: 0.08em;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 900px) {
+  #hud {
+    height: auto;
+    min-height: 0;
+    padding: 4px 10px 8px;
+  }
+
+  .hud-panel,
+  #lastSpottedPanel,
+  #headedForPanel,
+  #giftCountPanel {
+    float: none;
+    width: 100%;
+  }
+}

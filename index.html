@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Official NORAD Santa Tracker</title>
+  <script>
+    window.CESIUM_BASE_URL = "https://cdn.jsdelivr.net/npm/cesium@1.122.0/Build/Cesium/";
+  </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cesium@1.122.0/Build/Cesium/Widgets/widgets.css">
+  <link rel="stylesheet" href="css/tracker.css">
+</head>
+<body oncontextmenu="return false;">
+  <div id="cesiumContainer"></div>
+  <canvas id="snow"></canvas>
+
+  <header id="hud">
+    <div class="hud-panel" id="lastSpottedPanel">
+      <div class="hud-label">Last Spotted :</div>
+      <div class="hud-value" id="lastSpotted">North Pole, Arctic</div>
+    </div>
+    <div class="hud-panel" id="headedForPanel">
+      <div class="hud-label">Headed For</div>
+      <div class="hud-value" id="headedFor">—</div>
+    </div>
+    <div class="hud-panel" id="giftCountPanel">
+      <div class="hud-label">Gifts Delivered</div>
+      <div class="hud-value" id="giftsDelivered">0</div>
+    </div>
+  </header>
+
+  <div id="statusBanner" class="hidden"></div>
+
+  <div id="loader">
+    <div class="loader-inner">
+      <h1>Loading</h1>
+      <p>Acquiring Santa's signal…</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/cesium@1.122.0/Build/Cesium/Cesium.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

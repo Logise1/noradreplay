@@ -1,0 +1,5542 @@
+[
+    {
+        "id": "takeoff",
+        "city": "Santa's Village",
+        "region": "North Pole",
+        "arrival": 1766574000000,
+        "location_coords": {
+            "lat": 90.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "id": "dsp-satellite-tracking-santa",
+        "city": "DSP Satellite Tracking Santa",
+        "region": "",
+        "arrival": 1766574360000,
+        "location_coords": {
+            "lat": 69.98,
+            "lng": -172.267
+        }
+    },
+    {
+        "id": "uelen",
+        "city": "Uelen",
+        "region": "Russia",
+        "arrival": 1766574450000,
+        "location_coords": {
+            "lat": 66.159444,
+            "lng": -169.809167
+        }
+    },
+    {
+        "id": "lavrentiya",
+        "city": "Lavrentiya",
+        "region": "Russia",
+        "arrival": 1766574480000,
+        "location_coords": {
+            "lat": 65.584167,
+            "lng": -170.988889
+        }
+    },
+    {
+        "id": "anadyr",
+        "city": "Anadyr",
+        "region": "Russia",
+        "arrival": 1766574570000,
+        "location_coords": {
+            "lat": 64.733611,
+            "lng": 177.516944
+        }
+    },
+    {
+        "id": "magadan",
+        "city": "Magadan",
+        "region": "Russia",
+        "arrival": 1766574810000,
+        "location_coords": {
+            "lat": 59.552197,
+            "lng": 150.805792
+        }
+    },
+    {
+        "id": "esso",
+        "city": "Esso",
+        "region": "Russia",
+        "arrival": 1766575410000,
+        "location_coords": {
+            "lat": 55.930556,
+            "lng": 158.694722
+        }
+    },
+    {
+        "id": "wake-island",
+        "city": "Wake Island",
+        "region": "U.S. Minor Outlying Islands",
+        "arrival": 1766575530000,
+        "location_coords": {
+            "lat": 19.285057,
+            "lng": 166.644989
+        }
+    },
+    {
+        "id": "majuro",
+        "city": "Majuro",
+        "region": "Marshall Islands",
+        "arrival": 1766575770000,
+        "location_coords": {
+            "lat": 7.090617,
+            "lng": 171.38137
+        }
+    },
+    {
+        "id": "yaren",
+        "city": "Yaren",
+        "region": "Nauru",
+        "arrival": 1766575920000,
+        "location_coords": {
+            "lat": -0.54186,
+            "lng": 166.917145
+        }
+    },
+    {
+        "id": "tarawa",
+        "city": "Tarawa",
+        "region": "Kiribati",
+        "arrival": 1766576040000,
+        "location_coords": {
+            "lat": 1.329053,
+            "lng": 172.979053
+        }
+    },
+    {
+        "id": "funafuti",
+        "city": "Funafuti",
+        "region": "Tuvalu",
+        "arrival": 1766576235000,
+        "location_coords": {
+            "lat": -8.516667,
+            "lng": 179.21667
+        }
+    },
+    {
+        "id": "taga",
+        "city": "Taga",
+        "region": "Samoa",
+        "arrival": 1766576415000,
+        "location_coords": {
+            "lat": -13.788168,
+            "lng": -172.516684
+        }
+    },
+    {
+        "id": "tongatapu",
+        "city": "Tongatapu",
+        "region": "Tonga",
+        "arrival": 1766576565000,
+        "location_coords": {
+            "lat": -21.138325,
+            "lng": -175.203508
+        }
+    },
+    {
+        "id": "auckland",
+        "city": "Auckland",
+        "region": "New Zealand",
+        "arrival": 1766576880000,
+        "location_coords": {
+            "lat": -36.884109,
+            "lng": 174.77042
+        }
+    },
+    {
+        "id": "gisborne",
+        "city": "Gisborne",
+        "region": "New Zealand",
+        "arrival": 1766576955000,
+        "location_coords": {
+            "lat": -38.6625,
+            "lng": 178.017778
+        }
+    },
+    {
+        "id": "christchurch",
+        "city": "Christchurch",
+        "region": "New Zealand",
+        "arrival": 1766577120000,
+        "location_coords": {
+            "lat": -43.531027,
+            "lng": 172.637767
+        }
+    },
+    {
+        "id": "chatham-island",
+        "city": "Chatham Island",
+        "region": "New Zealand",
+        "arrival": 1766577315000,
+        "location_coords": {
+            "lat": -43.993372,
+            "lng": -176.518319
+        }
+    },
+    {
+        "id": "mcmurdo-station",
+        "city": "McMurdo Station",
+        "region": "Antarctica",
+        "arrival": 1766577915000,
+        "location_coords": {
+            "lat": -77.845747,
+            "lng": 166.671853
+        }
+    },
+    {
+        "id": "queenstown",
+        "city": "Queenstown",
+        "region": "New Zealand",
+        "arrival": 1766578395000,
+        "location_coords": {
+            "lat": -45.031111,
+            "lng": 168.6625
+        }
+    },
+    {
+        "id": "suva",
+        "city": "Suva",
+        "region": "Fiji",
+        "arrival": 1766578875000,
+        "location_coords": {
+            "lat": -18.12356,
+            "lng": 178.437576
+        }
+    },
+    {
+        "id": "noum-a",
+        "city": "Nouméa",
+        "region": "New Caledonia",
+        "arrival": 1766579100000,
+        "location_coords": {
+            "lat": -22.278917,
+            "lng": 166.452208
+        }
+    },
+    {
+        "id": "vanuatu",
+        "city": "Vanuatu",
+        "region": "",
+        "arrival": 1766579220000,
+        "location_coords": {
+            "lat": -16.650999,
+            "lng": 168.022003
+        }
+    },
+    {
+        "id": "honiara",
+        "city": "Honiara",
+        "region": "Solomon Islands",
+        "arrival": 1766579400000,
+        "location_coords": {
+            "lat": -9.431689,
+            "lng": 159.949744
+        }
+    },
+    {
+        "id": "auki",
+        "city": "Auki",
+        "region": "Solomon Islands",
+        "arrival": 1766579430000,
+        "location_coords": {
+            "lat": -8.7667,
+            "lng": 160.699997
+        }
+    },
+    {
+        "id": "palikir",
+        "city": "Palikir",
+        "region": "Federated States of Micronesia",
+        "arrival": 1766579730000,
+        "location_coords": {
+            "lat": 6.91715,
+            "lng": 158.158081
+        }
+    },
+    {
+        "id": "kurilsk",
+        "city": "Kurilsk",
+        "region": "Kuril Islands",
+        "arrival": 1766580390000,
+        "location_coords": {
+            "lat": 44.606991,
+            "lng": 147.146782
+        }
+    },
+    {
+        "id": "nogliki",
+        "city": "Nogliki",
+        "region": "Russia",
+        "arrival": 1766580570000,
+        "location_coords": {
+            "lat": 51.8125,
+            "lng": 143.166667
+        }
+    },
+    {
+        "id": "yakutsk",
+        "city": "Yakutsk",
+        "region": "Russia",
+        "arrival": 1766580870000,
+        "location_coords": {
+            "lat": 62.045361,
+            "lng": 129.729507
+        }
+    },
+    {
+        "id": "birobidzhan",
+        "city": "Birobidzhan",
+        "region": "Russia",
+        "arrival": 1766581110000,
+        "location_coords": {
+            "lat": 48.787027,
+            "lng": 132.932657
+        }
+    },
+    {
+        "id": "trudovoye",
+        "city": "Trudovoye",
+        "region": "Russia",
+        "arrival": 1766581230000,
+        "location_coords": {
+            "lat": 43.283298,
+            "lng": 132.083298
+        }
+    },
+    {
+        "id": "arsenyev",
+        "city": "Arsenyev",
+        "region": "Russia",
+        "arrival": 1766581260000,
+        "location_coords": {
+            "lat": 44.167156,
+            "lng": 133.268983
+        }
+    },
+    {
+        "id": "komsomolsk-on-amur",
+        "city": "Komsomolsk-on-Amur",
+        "region": "Russia",
+        "arrival": 1766581380000,
+        "location_coords": {
+            "lat": 50.5667,
+            "lng": 137.0
+        }
+    },
+    {
+        "id": "nevelsk",
+        "city": "Nevelsk",
+        "region": "Sakhalin Island",
+        "arrival": 1766581470000,
+        "location_coords": {
+            "lat": 46.668372,
+            "lng": 141.851975
+        }
+    },
+    {
+        "id": "san-vincente",
+        "city": "San Vincente",
+        "region": "Saipan, Northern Mariana Islands",
+        "arrival": 1766582010000,
+        "location_coords": {
+            "lat": 15.153611,
+            "lng": 145.74
+        }
+    },
+    {
+        "id": "santa-rita",
+        "city": "Santa Rita",
+        "region": "Guam",
+        "arrival": 1766582055000,
+        "location_coords": {
+            "lat": 13.386111,
+            "lng": 144.668889
+        }
+    },
+    {
+        "id": "kimbe",
+        "city": "Kimbe",
+        "region": "Papua New Guinea",
+        "arrival": 1766582430000,
+        "location_coords": {
+            "lat": -5.55043,
+            "lng": 150.142807
+        }
+    },
+    {
+        "id": "port-moresby",
+        "city": "Port Moresby",
+        "region": "Papua New Guinea",
+        "arrival": 1766582520000,
+        "location_coords": {
+            "lat": -9.47959,
+            "lng": 147.188522
+        }
+    },
+    {
+        "id": "daru",
+        "city": "Daru",
+        "region": "Papua New Guinea",
+        "arrival": 1766582595000,
+        "location_coords": {
+            "lat": -9.07749,
+            "lng": 143.207947
+        }
+    },
+    {
+        "id": "cooktown",
+        "city": "Cooktown",
+        "region": "Australia",
+        "arrival": 1766582760000,
+        "location_coords": {
+            "lat": -15.469028,
+            "lng": 145.251528
+        }
+    },
+    {
+        "id": "rockhampton",
+        "city": "Rockhampton",
+        "region": "Australia",
+        "arrival": 1766582970000,
+        "location_coords": {
+            "lat": -23.374241,
+            "lng": 150.503662
+        }
+    },
+    {
+        "id": "maryborough",
+        "city": "Maryborough",
+        "region": "Australia",
+        "arrival": 1766583060000,
+        "location_coords": {
+            "lat": -25.537353,
+            "lng": 152.701447
+        }
+    },
+    {
+        "id": "brisbane",
+        "city": "Brisbane",
+        "region": "Australia",
+        "arrival": 1766583120000,
+        "location_coords": {
+            "lat": -27.46888,
+            "lng": 153.022827
+        }
+    },
+    {
+        "id": "sydney",
+        "city": "Sydney",
+        "region": "Australia",
+        "arrival": 1766583270000,
+        "location_coords": {
+            "lat": -33.869629,
+            "lng": 151.206955
+        }
+    },
+    {
+        "id": "canberra",
+        "city": "Canberra",
+        "region": "Australia",
+        "arrival": 1766583330000,
+        "location_coords": {
+            "lat": -35.306541,
+            "lng": 149.126556
+        }
+    },
+    {
+        "id": "melbourne",
+        "city": "Melbourne",
+        "region": "Australia",
+        "arrival": 1766583420000,
+        "location_coords": {
+            "lat": -37.817532,
+            "lng": 144.967148
+        }
+    },
+    {
+        "id": "hobart",
+        "city": "Hobart",
+        "region": "Tasmania",
+        "arrival": 1766583510000,
+        "location_coords": {
+            "lat": -42.880556,
+            "lng": 147.325
+        }
+    },
+    {
+        "id": "adelaide",
+        "city": "Adelaide",
+        "region": "Australia",
+        "arrival": 1766583720000,
+        "location_coords": {
+            "lat": -34.926102,
+            "lng": 138.599884
+        }
+    },
+    {
+        "id": "alice-springs",
+        "city": "Alice Springs",
+        "region": "Australia",
+        "arrival": 1766583930000,
+        "location_coords": {
+            "lat": -23.703329,
+            "lng": 133.880936
+        }
+    },
+    {
+        "id": "darwin",
+        "city": "Darwin",
+        "region": "Australia",
+        "arrival": 1766584140000,
+        "location_coords": {
+            "lat": -12.4675,
+            "lng": 130.843155
+        }
+    },
+    {
+        "id": "dili",
+        "city": "Dili",
+        "region": "East Timor",
+        "arrival": 1766584260000,
+        "location_coords": {
+            "lat": -8.558619,
+            "lng": 125.578481
+        }
+    },
+    {
+        "id": "sorong",
+        "city": "Sorong",
+        "region": "West Papua",
+        "arrival": 1766584500000,
+        "location_coords": {
+            "lat": -0.866667,
+            "lng": 131.25
+        }
+    },
+    {
+        "id": "babeldaob",
+        "city": "Babeldaob",
+        "region": "Palau",
+        "arrival": 1766584680000,
+        "location_coords": {
+            "lat": 7.511036,
+            "lng": 134.577536
+        }
+    },
+    {
+        "id": "iwo-jima",
+        "city": "Iwo Jima",
+        "region": "Japan",
+        "arrival": 1766584980000,
+        "location_coords": {
+            "lat": 24.778971,
+            "lng": 141.315979
+        }
+    },
+    {
+        "id": "sapporo",
+        "city": "Sapporo",
+        "region": "Japan",
+        "arrival": 1766585340000,
+        "location_coords": {
+            "lat": 43.060636,
+            "lng": 141.355053
+        }
+    },
+    {
+        "id": "tokyo",
+        "city": "Tokyo",
+        "region": "Japan",
+        "arrival": 1766585520000,
+        "location_coords": {
+            "lat": 35.670479,
+            "lng": 139.740921
+        }
+    },
+    {
+        "id": "kanazawa",
+        "city": "Kanazawa",
+        "region": "Japan",
+        "arrival": 1766585595000,
+        "location_coords": {
+            "lat": 36.561056,
+            "lng": 136.656417
+        }
+    },
+    {
+        "id": "nagoya",
+        "city": "Nagoya",
+        "region": "Japan",
+        "arrival": 1766585640000,
+        "location_coords": {
+            "lat": 35.183333,
+            "lng": 136.9
+        }
+    },
+    {
+        "id": "kyoto",
+        "city": "Kyoto",
+        "region": "Japan",
+        "arrival": 1766585670000,
+        "location_coords": {
+            "lat": 35.021175,
+            "lng": 135.752631
+        }
+    },
+    {
+        "id": "hiroshima",
+        "city": "Hiroshima",
+        "region": "Japan",
+        "arrival": 1766585745000,
+        "location_coords": {
+            "lat": 34.3987,
+            "lng": 132.4759
+        }
+    },
+    {
+        "id": "shimonoseki",
+        "city": "Shimonoseki",
+        "region": "Japan",
+        "arrival": 1766585805000,
+        "location_coords": {
+            "lat": 33.95,
+            "lng": 130.933333
+        }
+    },
+    {
+        "id": "nagasaki",
+        "city": "Nagasaki",
+        "region": "Japan",
+        "arrival": 1766585865000,
+        "location_coords": {
+            "lat": 32.778642,
+            "lng": 129.859275
+        }
+    },
+    {
+        "id": "naha",
+        "city": "Naha",
+        "region": "Okinawa, Japan",
+        "arrival": 1766586045000,
+        "location_coords": {
+            "lat": 26.211069,
+            "lng": 127.687622
+        }
+    },
+    {
+        "id": "jeju-city",
+        "city": "Jeju City",
+        "region": "South Korea",
+        "arrival": 1766586255000,
+        "location_coords": {
+            "lat": 33.5129,
+            "lng": 126.5232
+        }
+    },
+    {
+        "id": "busan",
+        "city": "Busan",
+        "region": "South Korea",
+        "arrival": 1766586315000,
+        "location_coords": {
+            "lat": 35.166667,
+            "lng": 129.066667
+        }
+    },
+    {
+        "id": "daejeon",
+        "city": "Daejeon",
+        "region": "South Korea",
+        "arrival": 1766586375000,
+        "location_coords": {
+            "lat": 36.351,
+            "lng": 127.385
+        }
+    },
+    {
+        "id": "seoul",
+        "city": "Seoul",
+        "region": "South Korea",
+        "arrival": 1766586420000,
+        "location_coords": {
+            "lat": 37.557121,
+            "lng": 126.977379
+        }
+    },
+    {
+        "id": "pyongyang",
+        "city": "Pyongyang",
+        "region": "North Korea",
+        "arrival": 1766586480000,
+        "location_coords": {
+            "lat": 39.019444,
+            "lng": 125.738056
+        }
+    },
+    {
+        "id": "shenyang",
+        "city": "Shenyang",
+        "region": "China",
+        "arrival": 1766586540000,
+        "location_coords": {
+            "lat": 41.788509,
+            "lng": 123.40612
+        }
+    },
+    {
+        "id": "harbin",
+        "city": "Harbin",
+        "region": "China",
+        "arrival": 1766586660000,
+        "location_coords": {
+            "lat": 45.755199,
+            "lng": 126.62252
+        }
+    },
+    {
+        "id": "mudanjiang",
+        "city": "Mudanjiang",
+        "region": "China",
+        "arrival": 1766586720000,
+        "location_coords": {
+            "lat": 44.578609,
+            "lng": 129.611008
+        }
+    },
+    {
+        "id": "great-wall",
+        "city": "Great Wall",
+        "region": "China",
+        "arrival": 1766586900000,
+        "location_coords": {
+            "lat": 40.676931,
+            "lng": 117.23193
+        }
+    },
+    {
+        "id": "beijing",
+        "city": "Beijing",
+        "region": "China",
+        "arrival": 1766586930000,
+        "location_coords": {
+            "lat": 39.90601,
+            "lng": 116.387909
+        }
+    },
+    {
+        "id": "qingdao",
+        "city": "Qingdao",
+        "region": "China",
+        "arrival": 1766587050000,
+        "location_coords": {
+            "lat": 36.087509,
+            "lng": 120.34272
+        }
+    },
+    {
+        "id": "shanghai",
+        "city": "Shanghai",
+        "region": "China",
+        "arrival": 1766587170000,
+        "location_coords": {
+            "lat": 31.247709,
+            "lng": 121.472618
+        }
+    },
+    {
+        "id": "taipei",
+        "city": "Taipei",
+        "region": "Taiwan",
+        "arrival": 1766587320000,
+        "location_coords": {
+            "lat": 25.080441,
+            "lng": 121.564194
+        }
+    },
+    {
+        "id": "davao-city",
+        "city": "Davao City",
+        "region": "Philippines",
+        "arrival": 1766587620000,
+        "location_coords": {
+            "lat": 7.07996,
+            "lng": 125.61277
+        }
+    },
+    {
+        "id": "manila",
+        "city": "Manila",
+        "region": "Philippines",
+        "arrival": 1766587800000,
+        "location_coords": {
+            "lat": 14.60962,
+            "lng": 121.00589
+        }
+    },
+    {
+        "id": "hong-kong",
+        "city": "Hong Kong",
+        "region": "",
+        "arrival": 1766587980000,
+        "location_coords": {
+            "lat": 22.25,
+            "lng": 114.1667
+        }
+    },
+    {
+        "id": "guangzhou",
+        "city": "Guangzhou",
+        "region": "China",
+        "arrival": 1766588010000,
+        "location_coords": {
+            "lat": 23.107389,
+            "lng": 113.267616
+        }
+    },
+    {
+        "id": "changsha",
+        "city": "Changsha",
+        "region": "China",
+        "arrival": 1766588130000,
+        "location_coords": {
+            "lat": 28.228,
+            "lng": 112.939
+        }
+    },
+    {
+        "id": "xi-an",
+        "city": "Xi'an",
+        "region": "China",
+        "arrival": 1766588280000,
+        "location_coords": {
+            "lat": 34.263248,
+            "lng": 108.931831
+        }
+    },
+    {
+        "id": "chongqing",
+        "city": "Chongqing",
+        "region": "China",
+        "arrival": 1766588400000,
+        "location_coords": {
+            "lat": 29.581931,
+            "lng": 106.567867
+        }
+    },
+    {
+        "id": "chengdu",
+        "city": "Chengdu",
+        "region": "China",
+        "arrival": 1766588460000,
+        "location_coords": {
+            "lat": 30.67,
+            "lng": 104.071022
+        }
+    },
+    {
+        "id": "kunming",
+        "city": "Kunming",
+        "region": "China",
+        "arrival": 1766588610000,
+        "location_coords": {
+            "lat": 25.051001,
+            "lng": 102.702011
+        }
+    },
+    {
+        "id": "haikou",
+        "city": "Haikou",
+        "region": "China",
+        "arrival": 1766588820000,
+        "location_coords": {
+            "lat": 20.0186,
+            "lng": 110.3488
+        }
+    },
+    {
+        "id": "bandar-seri-begawan",
+        "city": "Bandar Seri Begawan",
+        "region": "Brunei",
+        "arrival": 1766589120000,
+        "location_coords": {
+            "lat": 4.89034,
+            "lng": 114.942459
+        }
+    },
+    {
+        "id": "bintulu",
+        "city": "Bintulu",
+        "region": "Malaysia",
+        "arrival": 1766589180000,
+        "location_coords": {
+            "lat": 3.197039,
+            "lng": 113.068398
+        }
+    },
+    {
+        "id": "sampit",
+        "city": "Sampit",
+        "region": "Indonesia",
+        "arrival": 1766589330000,
+        "location_coords": {
+            "lat": -2.533333,
+            "lng": 112.95
+        }
+    },
+    {
+        "id": "broome",
+        "city": "Broome",
+        "region": "Australia",
+        "arrival": 1766589630000,
+        "location_coords": {
+            "lat": -17.953079,
+            "lng": 122.240517
+        }
+    },
+    {
+        "id": "newman",
+        "city": "Newman",
+        "region": "Australia",
+        "arrival": 1766589780000,
+        "location_coords": {
+            "lat": -23.356692,
+            "lng": 119.735044
+        }
+    },
+    {
+        "id": "perth",
+        "city": "Perth",
+        "region": "Australia",
+        "arrival": 1766589960000,
+        "location_coords": {
+            "lat": -31.95302,
+            "lng": 115.857239
+        }
+    },
+    {
+        "id": "geraldton",
+        "city": "Geraldton",
+        "region": "Australia",
+        "arrival": 1766590050000,
+        "location_coords": {
+            "lat": -28.7763,
+            "lng": 114.626068
+        }
+    },
+    {
+        "id": "the-settlement",
+        "city": "The Settlement",
+        "region": "Christmas Island",
+        "arrival": 1766590440000,
+        "location_coords": {
+            "lat": -10.423547,
+            "lng": 105.678822
+        }
+    },
+    {
+        "id": "padang",
+        "city": "Padang",
+        "region": "Indonesia",
+        "arrival": 1766590635000,
+        "location_coords": {
+            "lat": -0.95,
+            "lng": 100.353056
+        }
+    },
+    {
+        "id": "jakarta",
+        "city": "Jakarta",
+        "region": "Indonesia",
+        "arrival": 1766590815000,
+        "location_coords": {
+            "lat": -6.17144,
+            "lng": 106.82782
+        }
+    },
+    {
+        "id": "natuna-besar",
+        "city": "Natuna Besar",
+        "region": "Indonesia",
+        "arrival": 1766591025000,
+        "location_coords": {
+            "lat": 3.948036,
+            "lng": 108.212586
+        }
+    },
+    {
+        "id": "singapore",
+        "city": "Singapore",
+        "region": "",
+        "arrival": 1766591175000,
+        "location_coords": {
+            "lat": 1.290165,
+            "lng": 103.852
+        }
+    },
+    {
+        "id": "pekanbaru",
+        "city": "Pekanbaru",
+        "region": "Indonesia",
+        "arrival": 1766591265000,
+        "location_coords": {
+            "lat": 0.51667,
+            "lng": 101.44167
+        }
+    },
+    {
+        "id": "kuala-lumpur",
+        "city": "Kuala Lumpur",
+        "region": "Malaysia",
+        "arrival": 1766591325000,
+        "location_coords": {
+            "lat": 3.104665,
+            "lng": 101.69117
+        }
+    },
+    {
+        "id": "terengganu",
+        "city": "Terengganu",
+        "region": "Malaysia",
+        "arrival": 1766591385000,
+        "location_coords": {
+            "lat": 5.32966,
+            "lng": 103.134101
+        }
+    },
+    {
+        "id": "hat-yai",
+        "city": "Hat Yai",
+        "region": "Thailand",
+        "arrival": 1766591535000,
+        "location_coords": {
+            "lat": 7.007089,
+            "lng": 100.463981
+        }
+    },
+    {
+        "id": "phi-phi-islands",
+        "city": "Phi Phi Islands",
+        "region": "Thailand",
+        "arrival": 1766591595000,
+        "location_coords": {
+            "lat": 7.743293,
+            "lng": 98.778908
+        }
+    },
+    {
+        "id": "bangkok",
+        "city": "Bangkok",
+        "region": "Thailand",
+        "arrival": 1766591745000,
+        "location_coords": {
+            "lat": 13.75333,
+            "lng": 100.504822
+        }
+    },
+    {
+        "id": "phnom-penh",
+        "city": "Phnom Penh",
+        "region": "Cambodia",
+        "arrival": 1766591865000,
+        "location_coords": {
+            "lat": 11.56474,
+            "lng": 104.913208
+        }
+    },
+    {
+        "id": "da-nang",
+        "city": "Da Nang",
+        "region": "Vietnam",
+        "arrival": 1766591985000,
+        "location_coords": {
+            "lat": 16.033333,
+            "lng": 108.216667
+        }
+    },
+    {
+        "id": "hanoi",
+        "city": "Hanoi",
+        "region": "Vietnam",
+        "arrival": 1766592105000,
+        "location_coords": {
+            "lat": 21.025949,
+            "lng": 105.847122
+        }
+    },
+    {
+        "id": "chiang-mai",
+        "city": "Chiang Mai",
+        "region": "Thailand",
+        "arrival": 1766592255000,
+        "location_coords": {
+            "lat": 18.7869,
+            "lng": 98.9865
+        }
+    },
+    {
+        "id": "vientiane",
+        "city": "Vientiane",
+        "region": "Laos",
+        "arrival": 1766592345000,
+        "location_coords": {
+            "lat": 17.965309,
+            "lng": 102.611519
+        }
+    },
+    {
+        "id": "yangon",
+        "city": "Yangon",
+        "region": "Burma",
+        "arrival": 1766592495000,
+        "location_coords": {
+            "lat": 16.80389,
+            "lng": 96.154694
+        }
+    },
+    {
+        "id": "lhasa",
+        "city": "Lhasa",
+        "region": "Tibet, China",
+        "arrival": 1766592735000,
+        "location_coords": {
+            "lat": 29.645554,
+            "lng": 91.140856
+        }
+    },
+    {
+        "id": "zhangye",
+        "city": "Zhangye",
+        "region": "China",
+        "arrival": 1766592975000,
+        "location_coords": {
+            "lat": 38.93251,
+            "lng": 100.457314
+        }
+    },
+    {
+        "id": "ulaanbaatar",
+        "city": "Ulaanbaatar",
+        "region": "Mongolia",
+        "arrival": 1766593155000,
+        "location_coords": {
+            "lat": 47.928501,
+            "lng": 106.912308
+        }
+    },
+    {
+        "id": "norilsk",
+        "city": "Norilsk",
+        "region": "Russia",
+        "arrival": 1766593575000,
+        "location_coords": {
+            "lat": 69.3298,
+            "lng": 88.2236
+        }
+    },
+    {
+        "id": "burmistrovo",
+        "city": "Burmistrovo",
+        "region": "Russia",
+        "arrival": 1766593875000,
+        "location_coords": {
+            "lat": 54.634513,
+            "lng": 82.836984
+        }
+    },
+    {
+        "id": "astana",
+        "city": "Astana",
+        "region": "Kazakhstan",
+        "arrival": 1766594025000,
+        "location_coords": {
+            "lat": 51.189442,
+            "lng": 71.432091
+        }
+    },
+    {
+        "id": "bishkek",
+        "city": "Bishkek",
+        "region": "Kyrgyzstan",
+        "arrival": 1766594205000,
+        "location_coords": {
+            "lat": 42.870022,
+            "lng": 74.587891
+        }
+    },
+    {
+        "id": "gangtok",
+        "city": "Gangtok",
+        "region": "Inida",
+        "arrival": 1766594565000,
+        "location_coords": {
+            "lat": 27.33,
+            "lng": 88.62
+        }
+    },
+    {
+        "id": "thimphu",
+        "city": "Thimphu",
+        "region": "Bhutan",
+        "arrival": 1766594595000,
+        "location_coords": {
+            "lat": 27.468201,
+            "lng": 89.661888
+        }
+    },
+    {
+        "id": "dhaka",
+        "city": "Dhaka",
+        "region": "Bangladesh",
+        "arrival": 1766594685000,
+        "location_coords": {
+            "lat": 23.709801,
+            "lng": 90.407112
+        }
+    },
+    {
+        "id": "kolkata",
+        "city": "Kolkata",
+        "region": "India",
+        "arrival": 1766594745000,
+        "location_coords": {
+            "lat": 22.5726,
+            "lng": 88.3639
+        }
+    },
+    {
+        "id": "kathmandu",
+        "city": "Kathmandu",
+        "region": "Nepal",
+        "arrival": 1766594865000,
+        "location_coords": {
+            "lat": 27.702,
+            "lng": 85.317497
+        }
+    },
+    {
+        "id": "mussoorie",
+        "city": "Mussoorie",
+        "region": "India",
+        "arrival": 1766595045000,
+        "location_coords": {
+            "lat": 30.45776,
+            "lng": 78.07424
+        }
+    },
+    {
+        "id": "new-delhi",
+        "city": "New Delhi",
+        "region": "India",
+        "arrival": 1766595105000,
+        "location_coords": {
+            "lat": 28.636056,
+            "lng": 77.216189
+        }
+    },
+    {
+        "id": "colombo",
+        "city": "Colombo",
+        "region": "Sri Lanka",
+        "arrival": 1766595525000,
+        "location_coords": {
+            "lat": 6.9272,
+            "lng": 79.8722
+        }
+    },
+    {
+        "id": "addu-city",
+        "city": "Addu City",
+        "region": "Maldives",
+        "arrival": 1766595765000,
+        "location_coords": {
+            "lat": -0.6413,
+            "lng": 73.157997
+        }
+    },
+    {
+        "id": "bangalore",
+        "city": "Bangalore",
+        "region": "India",
+        "arrival": 1766596125000,
+        "location_coords": {
+            "lat": 12.97092,
+            "lng": 77.60482
+        }
+    },
+    {
+        "id": "mumbai",
+        "city": "Mumbai",
+        "region": "India",
+        "arrival": 1766596305000,
+        "location_coords": {
+            "lat": 19.076191,
+            "lng": 72.875877
+        }
+    },
+    {
+        "id": "ahmedabad",
+        "city": "Ahmedabad",
+        "region": "India",
+        "arrival": 1766596395000,
+        "location_coords": {
+            "lat": 23.0333,
+            "lng": 72.6167
+        }
+    },
+    {
+        "id": "karachi",
+        "city": "Karachi",
+        "region": "Pakistan",
+        "arrival": 1766596515000,
+        "location_coords": {
+            "lat": 24.88978,
+            "lng": 67.028511
+        }
+    },
+    {
+        "id": "lahore",
+        "city": "Lahore",
+        "region": "Pakistan",
+        "arrival": 1766596725000,
+        "location_coords": {
+            "lat": 31.53945,
+            "lng": 74.303482
+        }
+    },
+    {
+        "id": "islamabad",
+        "city": "Islamabad",
+        "region": "Pakistan",
+        "arrival": 1766596800000,
+        "location_coords": {
+            "lat": 33.709839,
+            "lng": 73.075912
+        }
+    },
+    {
+        "id": "gilgit",
+        "city": "Gilgit",
+        "region": "Pakistan",
+        "arrival": 1766596860000,
+        "location_coords": {
+            "lat": 35.920833,
+            "lng": 74.308333
+        }
+    },
+    {
+        "id": "dushanbe",
+        "city": "Dushanbe",
+        "region": "Tajikistan",
+        "arrival": 1766596950000,
+        "location_coords": {
+            "lat": 38.559319,
+            "lng": 68.774971
+        }
+    },
+    {
+        "id": "samarkand",
+        "city": "Samarkand",
+        "region": "Uzbekistan",
+        "arrival": 1766596995000,
+        "location_coords": {
+            "lat": 39.639599,
+            "lng": 66.9412
+        }
+    },
+    {
+        "id": "karsakpay",
+        "city": "Karsakpay",
+        "region": "Kazakhstan",
+        "arrival": 1766597205000,
+        "location_coords": {
+            "lat": 47.833906,
+            "lng": 66.727136
+        }
+    },
+    {
+        "id": "chelyabinsk",
+        "city": "Chelyabinsk",
+        "region": "Russia",
+        "arrival": 1766597400000,
+        "location_coords": {
+            "lat": 55.166698,
+            "lng": 61.400002
+        }
+    },
+    {
+        "id": "yekaterinburg",
+        "city": "Yekaterinburg",
+        "region": "Russia",
+        "arrival": 1766597445000,
+        "location_coords": {
+            "lat": 56.833333,
+            "lng": 60.583333
+        }
+    },
+    {
+        "id": "volgograd",
+        "city": "Volgograd",
+        "region": "Russia",
+        "arrival": 1766597715000,
+        "location_coords": {
+            "lat": 48.70361,
+            "lng": 44.45297
+        }
+    },
+    {
+        "id": "ashgabat",
+        "city": "Ashgabat",
+        "region": "Turkmenistan",
+        "arrival": 1766598015000,
+        "location_coords": {
+            "lat": 37.950291,
+            "lng": 58.39032
+        }
+    },
+    {
+        "id": "dubai",
+        "city": "Dubai",
+        "region": "United Arab Emirates",
+        "arrival": 1766598285000,
+        "location_coords": {
+            "lat": 25.269445,
+            "lng": 55.30865
+        }
+    },
+    {
+        "id": "muscat-governorate",
+        "city": "Muscat Governorate",
+        "region": "Oman",
+        "arrival": 1766598375000,
+        "location_coords": {
+            "lat": 23.609083,
+            "lng": 58.540242
+        }
+    },
+    {
+        "id": "abu-dhabi",
+        "city": "Abu Dhabi",
+        "region": "United Arab Emirates",
+        "arrival": 1766598465000,
+        "location_coords": {
+            "lat": 24.469191,
+            "lng": 54.371738
+        }
+    },
+    {
+        "id": "tehran",
+        "city": "Tehran",
+        "region": "Iran",
+        "arrival": 1766598765000,
+        "location_coords": {
+            "lat": 35.696111,
+            "lng": 51.4244
+        }
+    },
+    {
+        "id": "baku",
+        "city": "Baku",
+        "region": "Azerbaijan",
+        "arrival": 1766598855000,
+        "location_coords": {
+            "lat": 40.37812,
+            "lng": 49.802841
+        }
+    },
+    {
+        "id": "tbilisi",
+        "city": "Tbilisi",
+        "region": "Georgia",
+        "arrival": 1766598945000,
+        "location_coords": {
+            "lat": 41.721802,
+            "lng": 44.783131
+        }
+    },
+    {
+        "id": "yerevan",
+        "city": "Yerevan",
+        "region": "Armenia",
+        "arrival": 1766598975000,
+        "location_coords": {
+            "lat": 40.182684,
+            "lng": 44.555494
+        }
+    },
+    {
+        "id": "ganja",
+        "city": "Ganja",
+        "region": "Azerbaijan",
+        "arrival": 1766599035000,
+        "location_coords": {
+            "lat": 40.684391,
+            "lng": 46.348751
+        }
+    },
+    {
+        "id": "vanadzor",
+        "city": "Vanadzor",
+        "region": "Armenia",
+        "arrival": 1766599065000,
+        "location_coords": {
+            "lat": 40.812801,
+            "lng": 44.4883
+        }
+    },
+    {
+        "id": "khorramabad",
+        "city": "Khorramabad",
+        "region": "Iran",
+        "arrival": 1766599245000,
+        "location_coords": {
+            "lat": 33.487778,
+            "lng": 48.355833
+        }
+    },
+    {
+        "id": "manama",
+        "city": "Manama",
+        "region": "Bahrain",
+        "arrival": 1766599455000,
+        "location_coords": {
+            "lat": 26.216667,
+            "lng": 50.583333
+        }
+    },
+    {
+        "id": "doha",
+        "city": "Doha",
+        "region": "Qatar",
+        "arrival": 1766599485000,
+        "location_coords": {
+            "lat": 25.294572,
+            "lng": 51.519445
+        }
+    },
+    {
+        "id": "socotra-island",
+        "city": "Socotra Island",
+        "region": "Yemen",
+        "arrival": 1766599725000,
+        "location_coords": {
+            "lat": 12.524203,
+            "lng": 53.905315
+        }
+    },
+    {
+        "id": "mogadishu",
+        "city": "Mogadishu",
+        "region": "Somalia",
+        "arrival": 1766599965000,
+        "location_coords": {
+            "lat": 2.04117,
+            "lng": 45.344139
+        }
+    },
+    {
+        "id": "victoria",
+        "city": "Victoria",
+        "region": "Seychelles",
+        "arrival": 1766600205000,
+        "location_coords": {
+            "lat": -4.59852,
+            "lng": 55.453331
+        }
+    },
+    {
+        "id": "verte-rocks",
+        "city": "Verte Rocks",
+        "region": "Glorioso Islands",
+        "arrival": 1766600385000,
+        "location_coords": {
+            "lat": -11.571288,
+            "lng": 47.331719
+        }
+    },
+    {
+        "id": "saint-denis",
+        "city": "Saint-Denis",
+        "region": "Réunion",
+        "arrival": 1766600595000,
+        "location_coords": {
+            "lat": -20.892664,
+            "lng": 55.47104
+        }
+    },
+    {
+        "id": "port-louis",
+        "city": "Port Louis",
+        "region": "Mauritius",
+        "arrival": 1766600625000,
+        "location_coords": {
+            "lat": -20.156771,
+            "lng": 57.50172
+        }
+    },
+    {
+        "id": "port-aux-fran-ais",
+        "city": "Port-aux-Français",
+        "region": "",
+        "arrival": 1766601165000,
+        "location_coords": {
+            "lat": -49.21,
+            "lng": 70.13
+        }
+    },
+    {
+        "id": "antananarivo",
+        "city": "Antananarivo",
+        "region": "Madagascar",
+        "arrival": 1766601645000,
+        "location_coords": {
+            "lat": -18.913078,
+            "lng": 47.529083
+        }
+    },
+    {
+        "id": "moroni",
+        "city": "Moroni",
+        "region": "Union of the Comoros",
+        "arrival": 1766601795000,
+        "location_coords": {
+            "lat": -11.67399,
+            "lng": 43.264389
+        }
+    },
+    {
+        "id": "zanzibar",
+        "city": "Zanzibar",
+        "region": "Tanzania",
+        "arrival": 1766601915000,
+        "location_coords": {
+            "lat": -6.1357,
+            "lng": 39.3621
+        }
+    },
+    {
+        "id": "nairobi",
+        "city": "Nairobi",
+        "region": "Kenya",
+        "arrival": 1766602035000,
+        "location_coords": {
+            "lat": -1.277298,
+            "lng": 36.806261
+        }
+    },
+    {
+        "id": "addis-ababa",
+        "city": "Addis Ababa",
+        "region": "Ethiopia",
+        "arrival": 1766602245000,
+        "location_coords": {
+            "lat": 9.02273,
+            "lng": 38.746792
+        }
+    },
+    {
+        "id": "djibouti",
+        "city": "Djibouti",
+        "region": "Djibouti",
+        "arrival": 1766602365000,
+        "location_coords": {
+            "lat": 11.595,
+            "lng": 43.14806
+        }
+    },
+    {
+        "id": "sana-a",
+        "city": "Sana'a",
+        "region": "Yemen",
+        "arrival": 1766602455000,
+        "location_coords": {
+            "lat": 15.353517,
+            "lng": 44.207533
+        }
+    },
+    {
+        "id": "mecca",
+        "city": "Mecca",
+        "region": "Saudi Arabia",
+        "arrival": 1766602635000,
+        "location_coords": {
+            "lat": 21.429741,
+            "lng": 39.828388
+        }
+    },
+    {
+        "id": "riyadh",
+        "city": "Riyadh",
+        "region": "Saudi Arabia",
+        "arrival": 1766602815000,
+        "location_coords": {
+            "lat": 24.647325,
+            "lng": 46.714585
+        }
+    },
+    {
+        "id": "kuwait-city",
+        "city": "Kuwait City",
+        "region": "Kuwait",
+        "arrival": 1766602935000,
+        "location_coords": {
+            "lat": 29.352061,
+            "lng": 47.997208
+        }
+    },
+    {
+        "id": "al-basrah",
+        "city": "Al Basrah",
+        "region": "Iraq",
+        "arrival": 1766602965000,
+        "location_coords": {
+            "lat": 30.520047,
+            "lng": 47.823372
+        }
+    },
+    {
+        "id": "baghdad",
+        "city": "Baghdad",
+        "region": "Iraq",
+        "arrival": 1766603055000,
+        "location_coords": {
+            "lat": 33.338612,
+            "lng": 44.39389
+        }
+    },
+    {
+        "id": "adana",
+        "city": "Adana",
+        "region": "Turkey",
+        "arrival": 1766603235000,
+        "location_coords": {
+            "lat": 37.0,
+            "lng": 35.321333
+        }
+    },
+    {
+        "id": "kyiv",
+        "city": "Kyiv",
+        "region": "Ukraine",
+        "arrival": 1766603535000,
+        "location_coords": {
+            "lat": 50.45,
+            "lng": 30.523333
+        }
+    },
+    {
+        "id": "moscow",
+        "city": "Moscow",
+        "region": "Russia",
+        "arrival": 1766603715000,
+        "location_coords": {
+            "lat": 55.75695,
+            "lng": 37.614975
+        }
+    },
+    {
+        "id": "pechora",
+        "city": "Pechora",
+        "region": "Russia",
+        "arrival": 1766604015000,
+        "location_coords": {
+            "lat": 65.166667,
+            "lng": 57.25
+        }
+    },
+    {
+        "id": "st-petersburg",
+        "city": "St. Petersburg",
+        "region": "Russia",
+        "arrival": 1766604315000,
+        "location_coords": {
+            "lat": 59.93314,
+            "lng": 30.306115
+        }
+    },
+    {
+        "id": "tartu",
+        "city": "Tartu",
+        "region": "Estonia",
+        "arrival": 1766604375000,
+        "location_coords": {
+            "lat": 58.37655,
+            "lng": 26.72614
+        }
+    },
+    {
+        "id": "mikkeli",
+        "city": "Mikkeli",
+        "region": "Finland",
+        "arrival": 1766604450000,
+        "location_coords": {
+            "lat": 61.683333,
+            "lng": 27.266667
+        }
+    },
+    {
+        "id": "helsinki",
+        "city": "Helsinki",
+        "region": "Finland",
+        "arrival": 1766604495000,
+        "location_coords": {
+            "lat": 60.17116,
+            "lng": 24.93258
+        }
+    },
+    {
+        "id": "riga",
+        "city": "Riga",
+        "region": "Latvia",
+        "arrival": 1766604585000,
+        "location_coords": {
+            "lat": 56.945999,
+            "lng": 24.114901
+        }
+    },
+    {
+        "id": "vilnius",
+        "city": "Vilnius",
+        "region": "Lithuania",
+        "arrival": 1766604660000,
+        "location_coords": {
+            "lat": 54.689845,
+            "lng": 25.269258
+        }
+    },
+    {
+        "id": "odessa",
+        "city": "Odessa",
+        "region": "Ukraine",
+        "arrival": 1766604885000,
+        "location_coords": {
+            "lat": 46.485722,
+            "lng": 30.743444
+        }
+    },
+    {
+        "id": "chi-in-u",
+        "city": "Chișinău",
+        "region": "Moldova",
+        "arrival": 1766604930000,
+        "location_coords": {
+            "lat": 47.012299,
+            "lng": 28.8606
+        }
+    },
+    {
+        "id": "bucharest",
+        "city": "Bucharest",
+        "region": "Romania",
+        "arrival": 1766605005000,
+        "location_coords": {
+            "lat": 44.434295,
+            "lng": 26.102965
+        }
+    },
+    {
+        "id": "plovdiv",
+        "city": "Plovdiv",
+        "region": "Bulgaria",
+        "arrival": 1766605065000,
+        "location_coords": {
+            "lat": 42.13573,
+            "lng": 24.74829
+        }
+    },
+    {
+        "id": "istanbul",
+        "city": "Istanbul",
+        "region": "Turkey",
+        "arrival": 1766605140000,
+        "location_coords": {
+            "lat": 41.0128,
+            "lng": 28.9744
+        }
+    },
+    {
+        "id": "ankara",
+        "city": "Ankara",
+        "region": "Turkey",
+        "arrival": 1766605215000,
+        "location_coords": {
+            "lat": 39.94293,
+            "lng": 32.86048
+        }
+    },
+    {
+        "id": "van",
+        "city": "Van",
+        "region": "Turkey",
+        "arrival": 1766605395000,
+        "location_coords": {
+            "lat": 38.489542,
+            "lng": 43.409256
+        }
+    },
+    {
+        "id": "antalya",
+        "city": "Antalya",
+        "region": "Turkey",
+        "arrival": 1766605635000,
+        "location_coords": {
+            "lat": 36.87905,
+            "lng": 30.709205
+        }
+    },
+    {
+        "id": "santorini",
+        "city": "Santorini",
+        "region": "Greece",
+        "arrival": 1766605755000,
+        "location_coords": {
+            "lat": 36.42,
+            "lng": 25.4317
+        }
+    },
+    {
+        "id": "athens",
+        "city": "Athens",
+        "region": "Greece",
+        "arrival": 1766605815000,
+        "location_coords": {
+            "lat": 37.9778,
+            "lng": 23.7278
+        }
+    },
+    {
+        "id": "izmir",
+        "city": "Izmir",
+        "region": "Turkey",
+        "arrival": 1766605875000,
+        "location_coords": {
+            "lat": 38.4202,
+            "lng": 27.1283
+        }
+    },
+    {
+        "id": "amman",
+        "city": "Amman",
+        "region": "Jordan",
+        "arrival": 1766606115000,
+        "location_coords": {
+            "lat": 31.950001,
+            "lng": 35.933331
+        }
+    },
+    {
+        "id": "tel-aviv",
+        "city": "Tel Aviv",
+        "region": "Isreal",
+        "arrival": 1766606145000,
+        "location_coords": {
+            "lat": 32.066667,
+            "lng": 34.783333
+        }
+    },
+    {
+        "id": "nicosia",
+        "city": "Nicosia",
+        "region": "Cyprus",
+        "arrival": 1766606235000,
+        "location_coords": {
+            "lat": 35.166698,
+            "lng": 33.366699
+        }
+    },
+    {
+        "id": "zahle",
+        "city": "Zahle",
+        "region": "Lebanon",
+        "arrival": 1766606295000,
+        "location_coords": {
+            "lat": 33.833333,
+            "lng": 35.916667
+        }
+    },
+    {
+        "id": "bethlehem",
+        "city": "Bethlehem",
+        "region": "Palestine",
+        "arrival": 1766606355000,
+        "location_coords": {
+            "lat": 31.71,
+            "lng": 35.2
+        }
+    },
+    {
+        "id": "cairo",
+        "city": "Cairo",
+        "region": "Egypt",
+        "arrival": 1766606460000,
+        "location_coords": {
+            "lat": 30.0566,
+            "lng": 31.2262
+        }
+    },
+    {
+        "id": "alexandria",
+        "city": "Alexandria",
+        "region": "Egypt",
+        "arrival": 1766606505000,
+        "location_coords": {
+            "lat": 31.19224,
+            "lng": 29.88987
+        }
+    },
+    {
+        "id": "luxor",
+        "city": "Luxor",
+        "region": "Egypt",
+        "arrival": 1766606655000,
+        "location_coords": {
+            "lat": 25.702395,
+            "lng": 32.649395
+        }
+    },
+    {
+        "id": "asmara",
+        "city": "Asmara",
+        "region": "Eritrea",
+        "arrival": 1766606895000,
+        "location_coords": {
+            "lat": 15.322778,
+            "lng": 38.925
+        }
+    },
+    {
+        "id": "khartoum",
+        "city": "Khartoum",
+        "region": "Sudan",
+        "arrival": 1766607045000,
+        "location_coords": {
+            "lat": 15.59092,
+            "lng": 32.518829
+        }
+    },
+    {
+        "id": "juba",
+        "city": "Juba",
+        "region": "South Sudan",
+        "arrival": 1766607315000,
+        "location_coords": {
+            "lat": 4.84956,
+            "lng": 31.60463
+        }
+    },
+    {
+        "id": "kampala",
+        "city": "Kampala",
+        "region": "Uganda",
+        "arrival": 1766607435000,
+        "location_coords": {
+            "lat": 0.32538,
+            "lng": 32.586971
+        }
+    },
+    {
+        "id": "kigali",
+        "city": "Kigali",
+        "region": "Rwanda",
+        "arrival": 1766607525000,
+        "location_coords": {
+            "lat": -1.943883,
+            "lng": 30.05945
+        }
+    },
+    {
+        "id": "bujumbura",
+        "city": "Bujumbura",
+        "region": "Burundi",
+        "arrival": 1766607570000,
+        "location_coords": {
+            "lat": -3.37249,
+            "lng": 29.35607
+        }
+    },
+    {
+        "id": "kamina",
+        "city": "Kamina",
+        "region": "Democratic Republic of the Congo",
+        "arrival": 1766607735000,
+        "location_coords": {
+            "lat": -8.7364,
+            "lng": 25.01086
+        }
+    },
+    {
+        "id": "lusaka",
+        "city": "Lusaka",
+        "region": "Zambia",
+        "arrival": 1766607915000,
+        "location_coords": {
+            "lat": -15.40884,
+            "lng": 28.2824
+        }
+    },
+    {
+        "id": "lilongwe",
+        "city": "Lilongwe",
+        "region": "Malawi",
+        "arrival": 1766608035000,
+        "location_coords": {
+            "lat": -13.8808,
+            "lng": 33.7733
+        }
+    },
+    {
+        "id": "beira",
+        "city": "Beira",
+        "region": "Mozambique",
+        "arrival": 1766608185000,
+        "location_coords": {
+            "lat": -19.820109,
+            "lng": 34.85101
+        }
+    },
+    {
+        "id": "bulawayo",
+        "city": "Bulawayo",
+        "region": "Zimbabwe",
+        "arrival": 1766608305000,
+        "location_coords": {
+            "lat": -20.17218,
+            "lng": 28.58115
+        }
+    },
+    {
+        "id": "gaborone",
+        "city": "Gaborone",
+        "region": "Botswana",
+        "arrival": 1766608425000,
+        "location_coords": {
+            "lat": -24.655284,
+            "lng": 25.919065
+        }
+    },
+    {
+        "id": "johannesburg",
+        "city": "Johannesburg",
+        "region": "South Africa",
+        "arrival": 1766608485000,
+        "location_coords": {
+            "lat": -26.204944,
+            "lng": 28.040035
+        }
+    },
+    {
+        "id": "maputo",
+        "city": "Maputo",
+        "region": "Mozambique",
+        "arrival": 1766608575000,
+        "location_coords": {
+            "lat": -25.9667,
+            "lng": 32.5833
+        }
+    },
+    {
+        "id": "maseru",
+        "city": "Maseru",
+        "region": "Lesotho",
+        "arrival": 1766608695000,
+        "location_coords": {
+            "lat": -29.3388,
+            "lng": 27.499701
+        }
+    },
+    {
+        "id": "cape-town",
+        "city": "Cape Town",
+        "region": "South Africa",
+        "arrival": 1766608875000,
+        "location_coords": {
+            "lat": -33.919104,
+            "lng": 18.42197
+        }
+    },
+    {
+        "id": "windhoek",
+        "city": "Windhoek",
+        "region": "Namibia",
+        "arrival": 1766609115000,
+        "location_coords": {
+            "lat": -22.57159,
+            "lng": 17.09074
+        }
+    },
+    {
+        "id": "luanda",
+        "city": "Luanda",
+        "region": "Angola",
+        "arrival": 1766609415000,
+        "location_coords": {
+            "lat": -8.977977,
+            "lng": 13.312591
+        }
+    },
+    {
+        "id": "kinshasa",
+        "city": "Kinshasa",
+        "region": "Democratic Republic of the Congo",
+        "arrival": 1766609535000,
+        "location_coords": {
+            "lat": -4.325,
+            "lng": 15.322222
+        }
+    },
+    {
+        "id": "moanda",
+        "city": "Moanda",
+        "region": "Gabon",
+        "arrival": 1766609625000,
+        "location_coords": {
+            "lat": -1.566667,
+            "lng": 13.2
+        }
+    },
+    {
+        "id": "port-gentil",
+        "city": "Port-Gentil",
+        "region": "Gabon",
+        "arrival": 1766609745000,
+        "location_coords": {
+            "lat": -0.72654,
+            "lng": 8.7873
+        }
+    },
+    {
+        "id": "malabo",
+        "city": "Malabo",
+        "region": "Equatorial Guinea",
+        "arrival": 1766609835000,
+        "location_coords": {
+            "lat": 3.74994,
+            "lng": 8.77762
+        }
+    },
+    {
+        "id": "yaound",
+        "city": "Yaoundé",
+        "region": "Cameroon",
+        "arrival": 1766609895000,
+        "location_coords": {
+            "lat": 3.866775,
+            "lng": 11.515381
+        }
+    },
+    {
+        "id": "bangui",
+        "city": "Bangui",
+        "region": "Central African Republic",
+        "arrival": 1766610075000,
+        "location_coords": {
+            "lat": 4.373333,
+            "lng": 18.562778
+        }
+    },
+    {
+        "id": "abuja",
+        "city": "Abuja",
+        "region": "Nigeria",
+        "arrival": 1766610315000,
+        "location_coords": {
+            "lat": 9.06667,
+            "lng": 7.48333
+        }
+    },
+    {
+        "id": "cotonou",
+        "city": "Cotonou",
+        "region": "Benin",
+        "arrival": 1766610435000,
+        "location_coords": {
+            "lat": 6.356931,
+            "lng": 2.44009
+        }
+    },
+    {
+        "id": "agadez",
+        "city": "Agadez",
+        "region": "Niger",
+        "arrival": 1766610630000,
+        "location_coords": {
+            "lat": 16.971333,
+            "lng": 7.986197
+        }
+    },
+    {
+        "id": "ati",
+        "city": "Ati",
+        "region": "Chad",
+        "arrival": 1766610810000,
+        "location_coords": {
+            "lat": 13.21446,
+            "lng": 18.338011
+        }
+    },
+    {
+        "id": "sabha",
+        "city": "Sabha",
+        "region": "Libya",
+        "arrival": 1766611050000,
+        "location_coords": {
+            "lat": 27.024719,
+            "lng": 14.45924
+        }
+    },
+    {
+        "id": "tripoli",
+        "city": "Tripoli",
+        "region": "Libya",
+        "arrival": 1766611185000,
+        "location_coords": {
+            "lat": 32.877708,
+            "lng": 13.18732
+        }
+    },
+    {
+        "id": "valletta",
+        "city": "Valletta",
+        "region": "Malta",
+        "arrival": 1766611260000,
+        "location_coords": {
+            "lat": 35.893532,
+            "lng": 14.51178
+        }
+    },
+    {
+        "id": "rome",
+        "city": "Rome",
+        "region": "Italy",
+        "arrival": 1766611410000,
+        "location_coords": {
+            "lat": 41.90311,
+            "lng": 12.49576
+        }
+    },
+    {
+        "id": "fonni",
+        "city": "Fonni",
+        "region": "Sardinia, Italy",
+        "arrival": 1766611485000,
+        "location_coords": {
+            "lat": 40.118301,
+            "lng": 9.2526
+        }
+    },
+    {
+        "id": "ajaccio",
+        "city": "Ajaccio",
+        "region": "Corsica, France",
+        "arrival": 1766611530000,
+        "location_coords": {
+            "lat": 41.908798,
+            "lng": 8.71137
+        }
+    },
+    {
+        "id": "fidenza",
+        "city": "Fidenza",
+        "region": "Italy",
+        "arrival": 1766611605000,
+        "location_coords": {
+            "lat": 44.866279,
+            "lng": 10.061595
+        }
+    },
+    {
+        "id": "san-marino",
+        "city": "San Marino",
+        "region": "",
+        "arrival": 1766611650000,
+        "location_coords": {
+            "lat": 43.936699,
+            "lng": 12.4407
+        }
+    },
+    {
+        "id": "dubrovnik",
+        "city": "Dubrovnik",
+        "region": "Croatia",
+        "arrival": 1766611755000,
+        "location_coords": {
+            "lat": 42.642756,
+            "lng": 18.110658
+        }
+    },
+    {
+        "id": "podgorica",
+        "city": "Podgorica",
+        "region": "Montenegro",
+        "arrival": 1766611785000,
+        "location_coords": {
+            "lat": 42.435429,
+            "lng": 19.263901
+        }
+    },
+    {
+        "id": "tirana",
+        "city": "Tirana",
+        "region": "Albania",
+        "arrival": 1766611830000,
+        "location_coords": {
+            "lat": 41.322319,
+            "lng": 19.82515
+        }
+    },
+    {
+        "id": "veles",
+        "city": "Veles",
+        "region": "Republic of Macedonia",
+        "arrival": 1766611890000,
+        "location_coords": {
+            "lat": 41.7178,
+            "lng": 21.769501
+        }
+    },
+    {
+        "id": "pristina",
+        "city": "Pristina",
+        "region": "Kosovo",
+        "arrival": 1766611920000,
+        "location_coords": {
+            "lat": 42.663799,
+            "lng": 21.166201
+        }
+    },
+    {
+        "id": "sarajevo",
+        "city": "Sarajevo",
+        "region": "Bosnia and Herzegovina",
+        "arrival": 1766611980000,
+        "location_coords": {
+            "lat": 43.849725,
+            "lng": 18.269792
+        }
+    },
+    {
+        "id": "venice",
+        "city": "Venice",
+        "region": "Italy",
+        "arrival": 1766612100000,
+        "location_coords": {
+            "lat": 45.4333,
+            "lng": 12.3167
+        }
+    },
+    {
+        "id": "maribor",
+        "city": "Maribor",
+        "region": "Slovenia",
+        "arrival": 1766612160000,
+        "location_coords": {
+            "lat": 46.562,
+            "lng": 15.6482
+        }
+    },
+    {
+        "id": "belgrade",
+        "city": "Belgrade",
+        "region": "Serbia",
+        "arrival": 1766612250000,
+        "location_coords": {
+            "lat": 44.812372,
+            "lng": 20.462419
+        }
+    },
+    {
+        "id": "budapest",
+        "city": "Budapest",
+        "region": "Hungary",
+        "arrival": 1766612310000,
+        "location_coords": {
+            "lat": 47.506225,
+            "lng": 19.06482
+        }
+    },
+    {
+        "id": "krak-w",
+        "city": "Kraków",
+        "region": "Poland",
+        "arrival": 1766612370000,
+        "location_coords": {
+            "lat": 50.06006,
+            "lng": 19.9326
+        }
+    },
+    {
+        "id": "vienna",
+        "city": "Vienna",
+        "region": "Austria",
+        "arrival": 1766612460000,
+        "location_coords": {
+            "lat": 48.202541,
+            "lng": 16.368799
+        }
+    },
+    {
+        "id": "freising",
+        "city": "Freising",
+        "region": "Germany",
+        "arrival": 1766612550000,
+        "location_coords": {
+            "lat": 48.40288,
+            "lng": 11.741185
+        }
+    },
+    {
+        "id": "prague",
+        "city": "Prague",
+        "region": "Czech Republic",
+        "arrival": 1766612610000,
+        "location_coords": {
+            "lat": 50.079083,
+            "lng": 14.43323
+        }
+    },
+    {
+        "id": "bratislava",
+        "city": "Bratislava",
+        "region": "Slovakia",
+        "arrival": 1766612670000,
+        "location_coords": {
+            "lat": 48.1485,
+            "lng": 17.1067
+        }
+    },
+    {
+        "id": "warsaw",
+        "city": "Warsaw",
+        "region": "Poland",
+        "arrival": 1766612790000,
+        "location_coords": {
+            "lat": 52.235352,
+            "lng": 21.00939
+        }
+    },
+    {
+        "id": "gdansk",
+        "city": "Gdansk",
+        "region": "Poland",
+        "arrival": 1766612850000,
+        "location_coords": {
+            "lat": 54.353125,
+            "lng": 18.65112
+        }
+    },
+    {
+        "id": "stockholm",
+        "city": "Stockholm",
+        "region": "Sweden",
+        "arrival": 1766612970000,
+        "location_coords": {
+            "lat": 59.33228,
+            "lng": 18.06284
+        }
+    },
+    {
+        "id": "berlin",
+        "city": "Berlin",
+        "region": "Germany",
+        "arrival": 1766613150000,
+        "location_coords": {
+            "lat": 52.516074,
+            "lng": 13.376987
+        }
+    },
+    {
+        "id": "copenhagen",
+        "city": "Copenhagen",
+        "region": "Denmark",
+        "arrival": 1766613240000,
+        "location_coords": {
+            "lat": 55.67631,
+            "lng": 12.569355
+        }
+    },
+    {
+        "id": "alta",
+        "city": "Alta",
+        "region": "Norway",
+        "arrival": 1766613630000,
+        "location_coords": {
+            "lat": 69.967208,
+            "lng": 23.268476
+        }
+    },
+    {
+        "id": "trondheim",
+        "city": "Trondheim",
+        "region": "Norway",
+        "arrival": 1766613810000,
+        "location_coords": {
+            "lat": 63.429722,
+            "lng": 10.393333
+        }
+    },
+    {
+        "id": "bergen",
+        "city": "Bergen",
+        "region": "Norway",
+        "arrival": 1766613900000,
+        "location_coords": {
+            "lat": 60.390705,
+            "lng": 5.33275
+        }
+    },
+    {
+        "id": "wolfsburg",
+        "city": "Wolfsburg",
+        "region": "Germany",
+        "arrival": 1766614080000,
+        "location_coords": {
+            "lat": 52.423056,
+            "lng": 10.787222
+        }
+    },
+    {
+        "id": "zurich",
+        "city": "Zurich",
+        "region": "Switzerland",
+        "arrival": 1766614230000,
+        "location_coords": {
+            "lat": 47.37706,
+            "lng": 8.53955
+        }
+    },
+    {
+        "id": "kaiserslautern",
+        "city": "Kaiserslautern",
+        "region": "Germany",
+        "arrival": 1766614290000,
+        "location_coords": {
+            "lat": 49.444722,
+            "lng": 7.768889
+        }
+    },
+    {
+        "id": "munich",
+        "city": "Munich",
+        "region": "Germany",
+        "arrival": 1766614380000,
+        "location_coords": {
+            "lat": 48.133333,
+            "lng": 11.566667
+        }
+    },
+    {
+        "id": "basel",
+        "city": "Basel",
+        "region": "Switzerland",
+        "arrival": 1766614455000,
+        "location_coords": {
+            "lat": 47.554722,
+            "lng": 7.590556
+        }
+    },
+    {
+        "id": "hallstatt",
+        "city": "Hallstatt",
+        "region": "Austria",
+        "arrival": 1766614545000,
+        "location_coords": {
+            "lat": 47.562,
+            "lng": 13.649
+        }
+    },
+    {
+        "id": "brescia",
+        "city": "Brescia",
+        "region": "Italy",
+        "arrival": 1766614635000,
+        "location_coords": {
+            "lat": 45.541667,
+            "lng": 10.216667
+        }
+    },
+    {
+        "id": "vaduz",
+        "city": "Vaduz",
+        "region": "Liechtenstein",
+        "arrival": 1766614680000,
+        "location_coords": {
+            "lat": 47.145329,
+            "lng": 9.518866
+        }
+    },
+    {
+        "id": "amsterdam",
+        "city": "Amsterdam",
+        "region": "The Netherlands",
+        "arrival": 1766614830000,
+        "location_coords": {
+            "lat": 52.373119,
+            "lng": 4.89319
+        }
+    },
+    {
+        "id": "vleteren",
+        "city": "Vleteren",
+        "region": "Belgium",
+        "arrival": 1766614890000,
+        "location_coords": {
+            "lat": 50.929691,
+            "lng": 2.732755
+        }
+    },
+    {
+        "id": "roermond",
+        "city": "Roermond",
+        "region": "The Netherlands",
+        "arrival": 1766614935000,
+        "location_coords": {
+            "lat": 51.2,
+            "lng": 5.983333
+        }
+    },
+    {
+        "id": "brussels",
+        "city": "Brussels",
+        "region": "Belgium",
+        "arrival": 1766614965000,
+        "location_coords": {
+            "lat": 50.8411,
+            "lng": 4.3564
+        }
+    },
+    {
+        "id": "luxembourg",
+        "city": "Luxembourg",
+        "region": "Luxembourg",
+        "arrival": 1766615025000,
+        "location_coords": {
+            "lat": 49.609531,
+            "lng": 6.12997
+        }
+    },
+    {
+        "id": "paris",
+        "city": "Paris",
+        "region": "France",
+        "arrival": 1766615100000,
+        "location_coords": {
+            "lat": 48.85693,
+            "lng": 2.3412
+        }
+    },
+    {
+        "id": "limoges",
+        "city": "Limoges",
+        "region": "France",
+        "arrival": 1766615190000,
+        "location_coords": {
+            "lat": 45.8288,
+            "lng": 1.26195
+        }
+    },
+    {
+        "id": "metz",
+        "city": "Metz",
+        "region": "France",
+        "arrival": 1766615295000,
+        "location_coords": {
+            "lat": 49.120278,
+            "lng": 6.177778
+        }
+    },
+    {
+        "id": "geneva",
+        "city": "Geneva",
+        "region": "Switzerland",
+        "arrival": 1766615370000,
+        "location_coords": {
+            "lat": 46.208358,
+            "lng": 6.142701
+        }
+    },
+    {
+        "id": "monaco",
+        "city": "Monaco",
+        "region": "",
+        "arrival": 1766615445000,
+        "location_coords": {
+            "lat": 43.73893,
+            "lng": 7.425483
+        }
+    },
+    {
+        "id": "marseille",
+        "city": "Marseille",
+        "region": "France",
+        "arrival": 1766615505000,
+        "location_coords": {
+            "lat": 43.293705,
+            "lng": 5.372475
+        }
+    },
+    {
+        "id": "andorra-la-vella",
+        "city": "Andorra la Vella",
+        "region": "Andorra",
+        "arrival": 1766615610000,
+        "location_coords": {
+            "lat": 42.507401,
+            "lng": 1.5225
+        }
+    },
+    {
+        "id": "bilbao",
+        "city": "Bilbao",
+        "region": "Spain",
+        "arrival": 1766615700000,
+        "location_coords": {
+            "lat": 43.26865,
+            "lng": -2.946119
+        }
+    },
+    {
+        "id": "barcelona",
+        "city": "Barcelona",
+        "region": "Spain",
+        "arrival": 1766615820000,
+        "location_coords": {
+            "lat": 41.385589,
+            "lng": 2.168745
+        }
+    },
+    {
+        "id": "madrid",
+        "city": "Madrid",
+        "region": "Spain",
+        "arrival": 1766615970000,
+        "location_coords": {
+            "lat": 40.4203,
+            "lng": -3.705774
+        }
+    },
+    {
+        "id": "palma",
+        "city": "Palma",
+        "region": "Majorca",
+        "arrival": 1766616120000,
+        "location_coords": {
+            "lat": 39.57148,
+            "lng": 2.64694
+        }
+    },
+    {
+        "id": "tangier",
+        "city": "Tangier",
+        "region": "Morocco",
+        "arrival": 1766616330000,
+        "location_coords": {
+            "lat": 35.766667,
+            "lng": -5.8
+        }
+    },
+    {
+        "id": "c-rdoba",
+        "city": "Córdoba",
+        "region": "Spain",
+        "arrival": 1766616390000,
+        "location_coords": {
+            "lat": 37.87794,
+            "lng": -4.778403
+        }
+    },
+    {
+        "id": "tunis",
+        "city": "Tunis",
+        "region": "Tunisia",
+        "arrival": 1766616630000,
+        "location_coords": {
+            "lat": 36.798672,
+            "lng": 10.17263
+        }
+    },
+    {
+        "id": "ain-salah",
+        "city": "Ain Salah",
+        "region": "Algeria",
+        "arrival": 1766616870000,
+        "location_coords": {
+            "lat": 27.195483,
+            "lng": 2.479992
+        }
+    },
+    {
+        "id": "dir",
+        "city": "Diré",
+        "region": "Mali",
+        "arrival": 1766617110000,
+        "location_coords": {
+            "lat": 16.267039,
+            "lng": -3.398317
+        }
+    },
+    {
+        "id": "kiffa",
+        "city": "Kiffa",
+        "region": "Mauritania",
+        "arrival": 1766617290000,
+        "location_coords": {
+            "lat": 16.61706,
+            "lng": -11.40388
+        }
+    },
+    {
+        "id": "bamako",
+        "city": "Bamako",
+        "region": "Mali",
+        "arrival": 1766617410000,
+        "location_coords": {
+            "lat": 12.65295,
+            "lng": -7.98648
+        }
+    },
+    {
+        "id": "bobo-dioulasso",
+        "city": "Bobo-Dioulasso",
+        "region": "Burkina Faso",
+        "arrival": 1766617530000,
+        "location_coords": {
+            "lat": 11.17809,
+            "lng": -4.29177
+        }
+    },
+    {
+        "id": "lom",
+        "city": "Lomé",
+        "region": "Togo",
+        "arrival": 1766617680000,
+        "location_coords": {
+            "lat": 6.13046,
+            "lng": 1.22745
+        }
+    },
+    {
+        "id": "s-o-tom",
+        "city": "São Tomé",
+        "region": "São Tomé and Principe",
+        "arrival": 1766617845000,
+        "location_coords": {
+            "lat": 0.33426,
+            "lng": 6.73394
+        }
+    },
+    {
+        "id": "kumasi",
+        "city": "Kumasi",
+        "region": "Ghana",
+        "arrival": 1766618055000,
+        "location_coords": {
+            "lat": 6.68711,
+            "lng": -1.62196
+        }
+    },
+    {
+        "id": "bouak",
+        "city": "Bouaké",
+        "region": "Côte d'Ivoire",
+        "arrival": 1766618130000,
+        "location_coords": {
+            "lat": 7.685658,
+            "lng": -5.025147
+        }
+    },
+    {
+        "id": "monrovia",
+        "city": "Monrovia",
+        "region": "Liberia",
+        "arrival": 1766618250000,
+        "location_coords": {
+            "lat": 6.30077,
+            "lng": -10.79716
+        }
+    },
+    {
+        "id": "freetown",
+        "city": "Freetown",
+        "region": "Sierra Leone",
+        "arrival": 1766618340000,
+        "location_coords": {
+            "lat": 8.48591,
+            "lng": -13.23806
+        }
+    },
+    {
+        "id": "lab",
+        "city": "Labé",
+        "region": "Guinea",
+        "arrival": 1766618400000,
+        "location_coords": {
+            "lat": 11.317003,
+            "lng": -12.289325
+        }
+    },
+    {
+        "id": "bissau",
+        "city": "Bissau",
+        "region": "Guinea-Bissau",
+        "arrival": 1766618460000,
+        "location_coords": {
+            "lat": 11.86711,
+            "lng": -15.62816
+        }
+    },
+    {
+        "id": "banjul",
+        "city": "Banjul",
+        "region": "The Gambia",
+        "arrival": 1766618490000,
+        "location_coords": {
+            "lat": 13.45641,
+            "lng": -16.581289
+        }
+    },
+    {
+        "id": "touba",
+        "city": "Touba",
+        "region": "Senegal",
+        "arrival": 1766618520000,
+        "location_coords": {
+            "lat": 14.85972,
+            "lng": -15.87872
+        }
+    },
+    {
+        "id": "nouakchott",
+        "city": "Nouakchott",
+        "region": "Mauritania",
+        "arrival": 1766618580000,
+        "location_coords": {
+            "lat": 18.084061,
+            "lng": -15.97842
+        }
+    },
+    {
+        "id": "dakhla",
+        "city": "Dakhla",
+        "region": "Western Sahara",
+        "arrival": 1766618700000,
+        "location_coords": {
+            "lat": 23.699,
+            "lng": -15.932858
+        }
+    },
+    {
+        "id": "smara",
+        "city": "Smara",
+        "region": "Western Sahara",
+        "arrival": 1766618820000,
+        "location_coords": {
+            "lat": 26.733829,
+            "lng": -11.67798
+        }
+    },
+    {
+        "id": "agadir",
+        "city": "Agadir",
+        "region": "Morocco",
+        "arrival": 1766618910000,
+        "location_coords": {
+            "lat": 30.431837,
+            "lng": -9.599206
+        }
+    },
+    {
+        "id": "casablanca",
+        "city": "Casablanca",
+        "region": "Morocco",
+        "arrival": 1766619000000,
+        "location_coords": {
+            "lat": 33.605381,
+            "lng": -7.63194
+        }
+    },
+    {
+        "id": "lisbon",
+        "city": "Lisbon",
+        "region": "Portugal",
+        "arrival": 1766619120000,
+        "location_coords": {
+            "lat": 38.725735,
+            "lng": -9.15021
+        }
+    },
+    {
+        "id": "porto",
+        "city": "Porto",
+        "region": "Portugal",
+        "arrival": 1766619180000,
+        "location_coords": {
+            "lat": 41.14945,
+            "lng": -8.610314
+        }
+    },
+    {
+        "id": "southampton",
+        "city": "Southampton",
+        "region": "England",
+        "arrival": 1766619420000,
+        "location_coords": {
+            "lat": 50.9,
+            "lng": -1.4
+        }
+    },
+    {
+        "id": "london",
+        "city": "London",
+        "region": "England",
+        "arrival": 1766619480000,
+        "location_coords": {
+            "lat": 51.506325,
+            "lng": -0.127144
+        }
+    },
+    {
+        "id": "cardiff",
+        "city": "Cardiff",
+        "region": "Wales",
+        "arrival": 1766619570000,
+        "location_coords": {
+            "lat": 51.483333,
+            "lng": -3.183333
+        }
+    },
+    {
+        "id": "durham",
+        "city": "Durham",
+        "region": "England",
+        "arrival": 1766619690000,
+        "location_coords": {
+            "lat": 54.7761,
+            "lng": -1.5733
+        }
+    },
+    {
+        "id": "carlisle",
+        "city": "Carlisle",
+        "region": "England",
+        "arrival": 1766619750000,
+        "location_coords": {
+            "lat": 54.891,
+            "lng": -2.944
+        }
+    },
+    {
+        "id": "edinburgh",
+        "city": "Edinburgh",
+        "region": "Scotland",
+        "arrival": 1766619810000,
+        "location_coords": {
+            "lat": 55.954155,
+            "lng": -3.202774
+        }
+    },
+    {
+        "id": "belfast",
+        "city": "Belfast",
+        "region": "Northern Ireland",
+        "arrival": 1766619930000,
+        "location_coords": {
+            "lat": 54.6,
+            "lng": -5.9167
+        }
+    },
+    {
+        "id": "dublin",
+        "city": "Dublin",
+        "region": "Ireland",
+        "arrival": 1766619990000,
+        "location_coords": {
+            "lat": 53.34807,
+            "lng": -6.248274
+        }
+    },
+    {
+        "id": "cork",
+        "city": "Cork",
+        "region": "Ireland",
+        "arrival": 1766620080000,
+        "location_coords": {
+            "lat": 51.89834,
+            "lng": -8.472774
+        }
+    },
+    {
+        "id": "t-rshavn",
+        "city": "Tórshavn",
+        "region": "Faroe Islands",
+        "arrival": 1766620320000,
+        "location_coords": {
+            "lat": 62.020981,
+            "lng": -6.76955
+        }
+    },
+    {
+        "id": "reykjav-k",
+        "city": "Reykjavík",
+        "region": "Iceland",
+        "arrival": 1766620500000,
+        "location_coords": {
+            "lat": 64.137383,
+            "lng": -21.902479
+        }
+    },
+    {
+        "id": "ponta-delgada",
+        "city": "Ponta Delgada",
+        "region": "São Miguel, The Azores",
+        "arrival": 1766620980000,
+        "location_coords": {
+            "lat": 37.73962,
+            "lng": -25.66857
+        }
+    },
+    {
+        "id": "mindelo",
+        "city": "Mindelo",
+        "region": "Cape Verde",
+        "arrival": 1766621340000,
+        "location_coords": {
+            "lat": 16.87925,
+            "lng": -24.99061
+        }
+    },
+    {
+        "id": "natal",
+        "city": "Natal",
+        "region": "Brazil",
+        "arrival": 1766621760000,
+        "location_coords": {
+            "lat": -5.794864,
+            "lng": -35.211184
+        }
+    },
+    {
+        "id": "salvador",
+        "city": "Salvador",
+        "region": "Brazil",
+        "arrival": 1766621910000,
+        "location_coords": {
+            "lat": -12.9833,
+            "lng": -38.5167
+        }
+    },
+    {
+        "id": "king-edward-point",
+        "city": "King Edward Point",
+        "region": "South Georgia and the South Sandwich Islands",
+        "arrival": 1766622600000,
+        "location_coords": {
+            "lat": -54.283508,
+            "lng": -36.493819
+        }
+    },
+    {
+        "id": "palmer-station",
+        "city": "Palmer Station",
+        "region": "Antarctica",
+        "arrival": 1766622900000,
+        "location_coords": {
+            "lat": -64.77417,
+            "lng": -64.053055
+        }
+    },
+    {
+        "id": "stanley",
+        "city": "Stanley",
+        "region": "Falkland Islands",
+        "arrival": 1766623140000,
+        "location_coords": {
+            "lat": -51.695247,
+            "lng": -57.851561
+        }
+    },
+    {
+        "id": "punta-arenas",
+        "city": "Punta Arenas",
+        "region": "Chile",
+        "arrival": 1766623320000,
+        "location_coords": {
+            "lat": -53.151159,
+            "lng": -70.897459
+        }
+    },
+    {
+        "id": "r-o-gallegos",
+        "city": "Río Gallegos",
+        "region": "Argentina",
+        "arrival": 1766623380000,
+        "location_coords": {
+            "lat": -51.630901,
+            "lng": -69.228073
+        }
+    },
+    {
+        "id": "comodoro-rivadavia",
+        "city": "Comodoro Rivadavia",
+        "region": "Argentina",
+        "arrival": 1766623560000,
+        "location_coords": {
+            "lat": -45.859604,
+            "lng": -67.475429
+        }
+    },
+    {
+        "id": "san-carlos-de-bariloche",
+        "city": "San Carlos de Bariloche",
+        "region": "Argentina",
+        "arrival": 1766623740000,
+        "location_coords": {
+            "lat": -41.15,
+            "lng": -71.3
+        }
+    },
+    {
+        "id": "santiago",
+        "city": "Santiago",
+        "region": "Chile",
+        "arrival": 1766623950000,
+        "location_coords": {
+            "lat": -33.437269,
+            "lng": -70.650564
+        }
+    },
+    {
+        "id": "montevideo",
+        "city": "Montevideo",
+        "region": "Uruguay",
+        "arrival": 1766624190000,
+        "location_coords": {
+            "lat": -34.880901,
+            "lng": -56.16544
+        }
+    },
+    {
+        "id": "asunci-n",
+        "city": "Asunción",
+        "region": "Paraguay",
+        "arrival": 1766624370000,
+        "location_coords": {
+            "lat": -25.30509,
+            "lng": -57.621948
+        }
+    },
+    {
+        "id": "s-o-paulo",
+        "city": "São Paulo",
+        "region": "Brazil",
+        "arrival": 1766624550000,
+        "location_coords": {
+            "lat": -23.5,
+            "lng": -46.6167
+        }
+    },
+    {
+        "id": "rio-de-janeiro",
+        "city": "Rio de Janeiro",
+        "region": "Brazil",
+        "arrival": 1766624610000,
+        "location_coords": {
+            "lat": -22.9083,
+            "lng": -43.2436
+        }
+    },
+    {
+        "id": "bras-lia",
+        "city": "Brasília",
+        "region": "Brazil",
+        "arrival": 1766624790000,
+        "location_coords": {
+            "lat": -15.77846,
+            "lng": -47.928661
+        }
+    },
+    {
+        "id": "cayenne",
+        "city": "Cayenne",
+        "region": "French Guiana",
+        "arrival": 1766625210000,
+        "location_coords": {
+            "lat": 4.93461,
+            "lng": -52.330334
+        }
+    },
+    {
+        "id": "paramaribo",
+        "city": "Paramaribo",
+        "region": "Suriname",
+        "arrival": 1766625270000,
+        "location_coords": {
+            "lat": 5.82403,
+            "lng": -55.173851
+        }
+    },
+    {
+        "id": "manaus",
+        "city": "Manaus",
+        "region": "Brazil",
+        "arrival": 1766625510000,
+        "location_coords": {
+            "lat": -3.123896,
+            "lng": -60.020649
+        }
+    },
+    {
+        "id": "georgetown",
+        "city": "Georgetown",
+        "region": "Guyana",
+        "arrival": 1766625750000,
+        "location_coords": {
+            "lat": 6.80461,
+            "lng": -58.154831
+        }
+    },
+    {
+        "id": "san-fernando",
+        "city": "San Fernando",
+        "region": "Trinidad and Tobago",
+        "arrival": 1766625870000,
+        "location_coords": {
+            "lat": 10.28289,
+            "lng": -61.458591
+        }
+    },
+    {
+        "id": "st-george-s",
+        "city": "St. George's",
+        "region": "Grenada",
+        "arrival": 1766625915000,
+        "location_coords": {
+            "lat": 12.052667,
+            "lng": -61.751678
+        }
+    },
+    {
+        "id": "kingstown",
+        "city": "Kingstown",
+        "region": "Saint Vincent and the Grenadines",
+        "arrival": 1766625945000,
+        "location_coords": {
+            "lat": 13.15648,
+            "lng": -61.227669
+        }
+    },
+    {
+        "id": "bridgetown",
+        "city": "Bridgetown",
+        "region": "Barbados",
+        "arrival": 1766625990000,
+        "location_coords": {
+            "lat": 13.09209,
+            "lng": -59.611938
+        }
+    },
+    {
+        "id": "castries",
+        "city": "Castries",
+        "region": "Saint Lucia",
+        "arrival": 1766626035000,
+        "location_coords": {
+            "lat": 14.01178,
+            "lng": -60.989689
+        }
+    },
+    {
+        "id": "saint-pierre",
+        "city": "Saint-Pierre",
+        "region": "Martinique",
+        "arrival": 1766626065000,
+        "location_coords": {
+            "lat": 14.743747,
+            "lng": -61.174978
+        }
+    },
+    {
+        "id": "roseau",
+        "city": "Roseau",
+        "region": "Dominica",
+        "arrival": 1766626095000,
+        "location_coords": {
+            "lat": 15.302,
+            "lng": -61.38607
+        }
+    },
+    {
+        "id": "port-louis-guadeloupe",
+        "city": "Port-Louis",
+        "region": "Guadeloupe",
+        "arrival": 1766626140000,
+        "location_coords": {
+            "lat": 16.41775,
+            "lng": -61.528456
+        }
+    },
+    {
+        "id": "st-john-s",
+        "city": "St. John's",
+        "region": "Antigua and Barbuda",
+        "arrival": 1766626170000,
+        "location_coords": {
+            "lat": 17.11578,
+            "lng": -61.840431
+        }
+    },
+    {
+        "id": "basseterre",
+        "city": "Basseterre",
+        "region": "Saint Kitts and Nevis",
+        "arrival": 1766626215000,
+        "location_coords": {
+            "lat": 17.296709,
+            "lng": -62.721939
+        }
+    },
+    {
+        "id": "philipsburg",
+        "city": "Philipsburg",
+        "region": "Sint Maarten",
+        "arrival": 1766626260000,
+        "location_coords": {
+            "lat": 18.02599,
+            "lng": -63.044411
+        }
+    },
+    {
+        "id": "ikeq-island",
+        "city": "Ikeq Island",
+        "region": "Greenland",
+        "arrival": 1766626980000,
+        "location_coords": {
+            "lat": 59.926236,
+            "lng": -44.258369
+        }
+    },
+    {
+        "id": "tasiilaq",
+        "city": "Tasiilaq",
+        "region": "Greenland",
+        "arrival": 1766627100000,
+        "location_coords": {
+            "lat": 65.613611,
+            "lng": -37.631111
+        }
+    },
+    {
+        "id": "stss-satellite-tracking-over-greenland",
+        "city": "STSS satellite tracking over Greenland",
+        "region": "",
+        "arrival": 1766627280000,
+        "location_coords": {
+            "lat": 70.756,
+            "lng": -50.506
+        }
+    },
+    {
+        "id": "alert",
+        "city": "Alert",
+        "region": "Nunavut, Canada",
+        "arrival": 1766627520000,
+        "location_coords": {
+            "lat": 82.483299,
+            "lng": -62.25
+        }
+    },
+    {
+        "id": "clyde-river",
+        "city": "Clyde River",
+        "region": "Canada",
+        "arrival": 1766627820000,
+        "location_coords": {
+            "lat": 70.473889,
+            "lng": -68.586111
+        }
+    },
+    {
+        "id": "nuuk",
+        "city": "Nuuk",
+        "region": "Greenland",
+        "arrival": 1766628000000,
+        "location_coords": {
+            "lat": 64.175,
+            "lng": -51.738889
+        }
+    },
+    {
+        "id": "air-escort-to-st-john-s",
+        "city": "Air Escort to St. John's",
+        "region": "Newfoundland and Labrador, Canada",
+        "arrival": 1766628420000,
+        "location_coords": {
+            "lat": 47.561241,
+            "lng": -52.711788
+        }
+    },
+    {
+        "id": "deer-lake",
+        "city": "Deer Lake",
+        "region": "Newfoundland and Labrador, Canada",
+        "arrival": 1766628510000,
+        "location_coords": {
+            "lat": 49.1712,
+            "lng": -57.431198
+        }
+    },
+    {
+        "id": "happy-valley-goose-bay",
+        "city": "Happy Valley-Goose Bay",
+        "region": "Newfoundland and Labrador, Canada",
+        "arrival": 1766628630000,
+        "location_coords": {
+            "lat": 53.305637,
+            "lng": -60.385033
+        }
+    },
+    {
+        "id": "halifax",
+        "city": "Halifax",
+        "region": "Nova Scotia, Canada",
+        "arrival": 1766628810000,
+        "location_coords": {
+            "lat": 44.64616,
+            "lng": -63.573919
+        }
+    },
+    {
+        "id": "charlottetown",
+        "city": "Charlottetown",
+        "region": "Prince Edward Island, Canada",
+        "arrival": 1766628855000,
+        "location_coords": {
+            "lat": 46.238889,
+            "lng": -63.129167
+        }
+    },
+    {
+        "id": "moncton",
+        "city": "Moncton",
+        "region": "New Brunswick, Canada",
+        "arrival": 1766628885000,
+        "location_coords": {
+            "lat": 46.132778,
+            "lng": -64.771389
+        }
+    },
+    {
+        "id": "cape-cod-tracking-over-atlantic",
+        "city": "Cape Cod tracking over Atlantic",
+        "region": "",
+        "arrival": 1766629005000,
+        "location_coords": {
+            "lat": 40.757,
+            "lng": -65.601
+        }
+    },
+    {
+        "id": "hamilton",
+        "city": "Hamilton",
+        "region": "Bermuda",
+        "arrival": 1766629185000,
+        "location_coords": {
+            "lat": 32.293,
+            "lng": -64.782
+        }
+    },
+    {
+        "id": "san-juan",
+        "city": "San Juan",
+        "region": "Puerto Rico",
+        "arrival": 1766629485000,
+        "location_coords": {
+            "lat": 18.46617,
+            "lng": -66.106654
+        }
+    },
+    {
+        "id": "oranjestad",
+        "city": "Oranjestad",
+        "region": "Aruba",
+        "arrival": 1766629635000,
+        "location_coords": {
+            "lat": 12.5373,
+            "lng": -70.0327
+        }
+    },
+    {
+        "id": "willemstad",
+        "city": "Willemstad",
+        "region": "Curaçao",
+        "arrival": 1766629665000,
+        "location_coords": {
+            "lat": 12.11207,
+            "lng": -68.93602
+        }
+    },
+    {
+        "id": "caracas",
+        "city": "Caracas",
+        "region": "Venezuela",
+        "arrival": 1766629725000,
+        "location_coords": {
+            "lat": 10.49605,
+            "lng": -66.898277
+        }
+    },
+    {
+        "id": "amazon-rainforest",
+        "city": "Amazon Rainforest",
+        "region": "Brazil",
+        "arrival": 1766630025000,
+        "location_coords": {
+            "lat": -5.317417,
+            "lng": -65.522544
+        }
+    },
+    {
+        "id": "santa-cruz-de-la-sierra",
+        "city": "Santa Cruz de la Sierra",
+        "region": "Bolivia",
+        "arrival": 1766630265000,
+        "location_coords": {
+            "lat": -17.790371,
+            "lng": -63.184509
+        }
+    },
+    {
+        "id": "la-paz",
+        "city": "La Paz",
+        "region": "Bolivia",
+        "arrival": 1766630385000,
+        "location_coords": {
+            "lat": -16.499583,
+            "lng": -68.142161
+        }
+    },
+    {
+        "id": "cusco",
+        "city": "Cusco",
+        "region": "Peru",
+        "arrival": 1766630505000,
+        "location_coords": {
+            "lat": -13.521972,
+            "lng": -71.972386
+        }
+    },
+    {
+        "id": "quito",
+        "city": "Quito",
+        "region": "Ecuador",
+        "arrival": 1766630805000,
+        "location_coords": {
+            "lat": -0.21695,
+            "lng": -78.516692
+        }
+    },
+    {
+        "id": "bogot",
+        "city": "Bogotá",
+        "region": "Colombia",
+        "arrival": 1766630955000,
+        "location_coords": {
+            "lat": 4.65637,
+            "lng": -74.11779
+        }
+    },
+    {
+        "id": "kingston",
+        "city": "Kingston",
+        "region": "Jamaica",
+        "arrival": 1766631255000,
+        "location_coords": {
+            "lat": 17.9911,
+            "lng": -76.8036
+        }
+    },
+    {
+        "id": "port-au-prince",
+        "city": "Port-au-Prince",
+        "region": "Haiti",
+        "arrival": 1766631345000,
+        "location_coords": {
+            "lat": 18.54298,
+            "lng": -72.343102
+        }
+    },
+    {
+        "id": "santo-domingo",
+        "city": "Santo Domingo",
+        "region": "Dominican Republic",
+        "arrival": 1766631405000,
+        "location_coords": {
+            "lat": 18.4853,
+            "lng": -69.910004
+        }
+    },
+    {
+        "id": "santiago-de-cuba",
+        "city": "Santiago de Cuba",
+        "region": "Cuba",
+        "arrival": 1766631555000,
+        "location_coords": {
+            "lat": 20.019833,
+            "lng": -75.813917
+        }
+    },
+    {
+        "id": "havana",
+        "city": "Havana",
+        "region": "Cuba",
+        "arrival": 1766631735000,
+        "location_coords": {
+            "lat": 23.1168,
+            "lng": -82.388588
+        }
+    },
+    {
+        "id": "nassau",
+        "city": "Nassau",
+        "region": "The Bahamas",
+        "arrival": 1766631855000,
+        "location_coords": {
+            "lat": 25.067221,
+            "lng": -77.34024
+        }
+    },
+    {
+        "id": "fort-lauderdale",
+        "city": "Fort Lauderdale",
+        "region": "Florida, United States",
+        "arrival": 1766631930000,
+        "location_coords": {
+            "lat": 26.133333,
+            "lng": -80.15
+        }
+    },
+    {
+        "id": "key-west",
+        "city": "Key West",
+        "region": "Florida, United States",
+        "arrival": 1766631990000,
+        "location_coords": {
+            "lat": 24.559722,
+            "lng": -81.783611
+        }
+    },
+    {
+        "id": "orlando",
+        "city": "Orlando",
+        "region": "Florida, United States",
+        "arrival": 1766632110000,
+        "location_coords": {
+            "lat": 28.54,
+            "lng": -81.38
+        }
+    },
+    {
+        "id": "savannah",
+        "city": "Savannah",
+        "region": "Georgia, United States",
+        "arrival": 1766632200000,
+        "location_coords": {
+            "lat": 32.081111,
+            "lng": -81.091111
+        }
+    },
+    {
+        "id": "columbus",
+        "city": "Columbus",
+        "region": "Georgia, United States",
+        "arrival": 1766632290000,
+        "location_coords": {
+            "lat": 32.492222,
+            "lng": -84.940278
+        }
+    },
+    {
+        "id": "marietta",
+        "city": "Marietta",
+        "region": "Georgia, United States",
+        "arrival": 1766632350000,
+        "location_coords": {
+            "lat": 33.953333,
+            "lng": -84.540556
+        }
+    },
+    {
+        "id": "clemson",
+        "city": "Clemson",
+        "region": "South Carolina, United States",
+        "arrival": 1766632425000,
+        "location_coords": {
+            "lat": 34.683611,
+            "lng": -82.811944
+        }
+    },
+    {
+        "id": "easley",
+        "city": "Easley",
+        "region": "South Carolina, United States",
+        "arrival": 1766632440000,
+        "location_coords": {
+            "lat": 34.823333,
+            "lng": -82.590278
+        }
+    },
+    {
+        "id": "myrtle-beach",
+        "city": "Myrtle Beach",
+        "region": "South Carolina, United States",
+        "arrival": 1766632590000,
+        "location_coords": {
+            "lat": 33.744075,
+            "lng": -78.869475
+        }
+    },
+    {
+        "id": "holly-ridge",
+        "city": "Holly Ridge",
+        "region": "North Carolina, United States",
+        "arrival": 1766632680000,
+        "location_coords": {
+            "lat": 34.491944,
+            "lng": -77.553056
+        }
+    },
+    {
+        "id": "chapel-hill",
+        "city": "Chapel Hill",
+        "region": "North Carolina, United States",
+        "arrival": 1766632740000,
+        "location_coords": {
+            "lat": 35.927222,
+            "lng": -79.039167
+        }
+    },
+    {
+        "id": "moyock",
+        "city": "Moyock",
+        "region": "North Carolina, United States",
+        "arrival": 1766632800000,
+        "location_coords": {
+            "lat": 36.524722,
+            "lng": -76.178056
+        }
+    },
+    {
+        "id": "norfolk",
+        "city": "Norfolk",
+        "region": "Virginia, United States",
+        "arrival": 1766632830000,
+        "location_coords": {
+            "lat": 36.846944,
+            "lng": -76.285278
+        }
+    },
+    {
+        "id": "richmond",
+        "city": "Richmond",
+        "region": "Virginia, United States",
+        "arrival": 1766632920000,
+        "location_coords": {
+            "lat": 37.540833,
+            "lng": -77.436667
+        }
+    },
+    {
+        "id": "milton",
+        "city": "Milton",
+        "region": "Delaware, United States",
+        "arrival": 1766633070000,
+        "location_coords": {
+            "lat": 38.777612,
+            "lng": -75.309914
+        }
+    },
+    {
+        "id": "washington",
+        "city": "Washington",
+        "region": "D.C., United States",
+        "arrival": 1766633175000,
+        "location_coords": {
+            "lat": 38.89037,
+            "lng": -77.031959
+        }
+    },
+    {
+        "id": "annapolis",
+        "city": "Annapolis",
+        "region": "Maryland, United States",
+        "arrival": 1766633235000,
+        "location_coords": {
+            "lat": 38.973056,
+            "lng": -76.501111
+        }
+    },
+    {
+        "id": "state-college",
+        "city": "State College",
+        "region": "Pennsylvania, United States",
+        "arrival": 1766633355000,
+        "location_coords": {
+            "lat": 40.793395,
+            "lng": -77.860001
+        }
+    },
+    {
+        "id": "philadelphia",
+        "city": "Philadelphia",
+        "region": "Pennsylvania, United States",
+        "arrival": 1766633475000,
+        "location_coords": {
+            "lat": 39.95228,
+            "lng": -75.162454
+        }
+    },
+    {
+        "id": "atlantic-city",
+        "city": "Atlantic City",
+        "region": "New Jersey, United States",
+        "arrival": 1766633535000,
+        "location_coords": {
+            "lat": 39.362808,
+            "lng": -74.426521
+        }
+    },
+    {
+        "id": "new-york-city",
+        "city": "New York City",
+        "region": "New York, United States",
+        "arrival": 1766633655000,
+        "location_coords": {
+            "lat": 40.71455,
+            "lng": -74.007124
+        }
+    },
+    {
+        "id": "west-point",
+        "city": "West Point",
+        "region": "New York, United States",
+        "arrival": 1766633685000,
+        "location_coords": {
+            "lat": 41.395,
+            "lng": -73.955
+        }
+    },
+    {
+        "id": "newport",
+        "city": "Newport",
+        "region": "Rhode Island, United States",
+        "arrival": 1766633805000,
+        "location_coords": {
+            "lat": 41.49,
+            "lng": -71.31
+        }
+    },
+    {
+        "id": "southampton-new-york-united-states",
+        "city": "Southampton",
+        "region": "New York, United States",
+        "arrival": 1766633865000,
+        "location_coords": {
+            "lat": 40.884267,
+            "lng": -72.38953
+        }
+    },
+    {
+        "id": "ipswich",
+        "city": "Ipswich",
+        "region": "Massachusetts, United States",
+        "arrival": 1766634015000,
+        "location_coords": {
+            "lat": 42.679183,
+            "lng": -70.841156
+        }
+    },
+    {
+        "id": "nantucket",
+        "city": "Nantucket",
+        "region": "Massachusetts, United States",
+        "arrival": 1766634105000,
+        "location_coords": {
+            "lat": 41.283642,
+            "lng": -70.098679
+        }
+    },
+    {
+        "id": "simsbury",
+        "city": "Simsbury",
+        "region": "Connecticut, United States",
+        "arrival": 1766634210000,
+        "location_coords": {
+            "lat": 41.870556,
+            "lng": -72.825278
+        }
+    },
+    {
+        "id": "greensboro",
+        "city": "Greensboro",
+        "region": "Vermont, United States",
+        "arrival": 1766634330000,
+        "location_coords": {
+            "lat": 44.576111,
+            "lng": -72.296111
+        }
+    },
+    {
+        "id": "portsmouth",
+        "city": "Portsmouth",
+        "region": "New Hampshire, United States",
+        "arrival": 1766634450000,
+        "location_coords": {
+            "lat": 43.071755,
+            "lng": -70.762553
+        }
+    },
+    {
+        "id": "berlin-new-hampshire-united-states",
+        "city": "Berlin",
+        "region": "New Hampshire, United States",
+        "arrival": 1766634540000,
+        "location_coords": {
+            "lat": 44.472883,
+            "lng": -71.176261
+        }
+    },
+    {
+        "id": "jay",
+        "city": "Jay",
+        "region": "Maine, United States",
+        "arrival": 1766634570000,
+        "location_coords": {
+            "lat": 44.503889,
+            "lng": -70.216111
+        }
+    },
+    {
+        "id": "brunswick",
+        "city": "Brunswick",
+        "region": "Maine, United States",
+        "arrival": 1766634600000,
+        "location_coords": {
+            "lat": 43.910833,
+            "lng": -69.963056
+        }
+    },
+    {
+        "id": "augusta",
+        "city": "Augusta",
+        "region": "Maine, United States",
+        "arrival": 1766634630000,
+        "location_coords": {
+            "lat": 44.318031,
+            "lng": -69.776207
+        }
+    },
+    {
+        "id": "saguenay",
+        "city": "Saguenay",
+        "region": "Quebec, Canada",
+        "arrival": 1766634870000,
+        "location_coords": {
+            "lat": 48.416667,
+            "lng": -71.066667
+        }
+    },
+    {
+        "id": "quebec-city",
+        "city": "Quebec City",
+        "region": "Quebec, Canada",
+        "arrival": 1766634975000,
+        "location_coords": {
+            "lat": 46.812749,
+            "lng": -71.219359
+        }
+    },
+    {
+        "id": "montreal",
+        "city": "Montreal",
+        "region": "Quebec, Canada",
+        "arrival": 1766635095000,
+        "location_coords": {
+            "lat": 45.512303,
+            "lng": -73.554431
+        }
+    },
+    {
+        "id": "radisson",
+        "city": "Radisson",
+        "region": "Quebec, Canada",
+        "arrival": 1766635275000,
+        "location_coords": {
+            "lat": 53.793611,
+            "lng": -77.617778
+        }
+    },
+    {
+        "id": "ottawa",
+        "city": "Ottawa",
+        "region": "Ontario, Canada",
+        "arrival": 1766635455000,
+        "location_coords": {
+            "lat": 45.42178,
+            "lng": -75.691184
+        }
+    },
+    {
+        "id": "albany",
+        "city": "Albany",
+        "region": "New York, United States",
+        "arrival": 1766635575000,
+        "location_coords": {
+            "lat": 42.6525,
+            "lng": -73.757222
+        }
+    },
+    {
+        "id": "lakewood",
+        "city": "Lakewood",
+        "region": "New York, United States",
+        "arrival": 1766635695000,
+        "location_coords": {
+            "lat": 42.104224,
+            "lng": -79.333104
+        }
+    },
+    {
+        "id": "niagara-falls",
+        "city": "Niagara Falls",
+        "region": "Ontario, Canada",
+        "arrival": 1766635755000,
+        "location_coords": {
+            "lat": 43.0799,
+            "lng": -79.0747
+        }
+    },
+    {
+        "id": "toronto",
+        "city": "Toronto",
+        "region": "Ontario, Canada",
+        "arrival": 1766635800000,
+        "location_coords": {
+            "lat": 43.64856,
+            "lng": -79.385324
+        }
+    },
+    {
+        "id": "timmins",
+        "city": "Timmins",
+        "region": "Ontario, Canada",
+        "arrival": 1766635920000,
+        "location_coords": {
+            "lat": 48.466667,
+            "lng": -81.333333
+        }
+    },
+    {
+        "id": "peawanuck",
+        "city": "Peawanuck",
+        "region": "Ontario, Canada",
+        "arrival": 1766636070000,
+        "location_coords": {
+            "lat": 55.016667,
+            "lng": -85.416667
+        }
+    },
+    {
+        "id": "thunder-bay",
+        "city": "Thunder Bay",
+        "region": "Ontario, Canada",
+        "arrival": 1766636220000,
+        "location_coords": {
+            "lat": 48.4066,
+            "lng": -89.2467
+        }
+    },
+    {
+        "id": "midland",
+        "city": "Midland",
+        "region": "Michigan, United States",
+        "arrival": 1766636340000,
+        "location_coords": {
+            "lat": 43.615556,
+            "lng": -84.247222
+        }
+    },
+    {
+        "id": "kalamazoo",
+        "city": "Kalamazoo",
+        "region": "Michigan, United States",
+        "arrival": 1766636400000,
+        "location_coords": {
+            "lat": 42.291707,
+            "lng": -85.587229
+        }
+    },
+    {
+        "id": "erie",
+        "city": "Erie",
+        "region": "Pennsylvania, United States",
+        "arrival": 1766636520000,
+        "location_coords": {
+            "lat": 42.129445,
+            "lng": -80.085239
+        }
+    },
+    {
+        "id": "cleveland",
+        "city": "Cleveland",
+        "region": "Ohio, United States",
+        "arrival": 1766636640000,
+        "location_coords": {
+            "lat": 41.482222,
+            "lng": -81.669722
+        }
+    },
+    {
+        "id": "columbus-ohio-united-states",
+        "city": "Columbus",
+        "region": "Ohio, United States",
+        "arrival": 1766636730000,
+        "location_coords": {
+            "lat": 39.962222,
+            "lng": -83.000556
+        }
+    },
+    {
+        "id": "charleston",
+        "city": "Charleston",
+        "region": "West Virginia, United States",
+        "arrival": 1766636820000,
+        "location_coords": {
+            "lat": 38.347222,
+            "lng": -81.633333
+        }
+    },
+    {
+        "id": "indianapolis",
+        "city": "Indianapolis",
+        "region": "Indiana, United States",
+        "arrival": 1766636910000,
+        "location_coords": {
+            "lat": 39.76691,
+            "lng": -86.149964
+        }
+    },
+    {
+        "id": "lexington",
+        "city": "Lexington",
+        "region": "Kentucky, United States",
+        "arrival": 1766637030000,
+        "location_coords": {
+            "lat": 38.029722,
+            "lng": -84.494722
+        }
+    },
+    {
+        "id": "loretto",
+        "city": "Loretto",
+        "region": "Tennessee, United States",
+        "arrival": 1766637150000,
+        "location_coords": {
+            "lat": 35.078333,
+            "lng": -87.438889
+        }
+    },
+    {
+        "id": "chattanooga",
+        "city": "Chattanooga",
+        "region": "Tennessee, United States",
+        "arrival": 1766637210000,
+        "location_coords": {
+            "lat": 35.045556,
+            "lng": -85.267222
+        }
+    },
+    {
+        "id": "montgomery",
+        "city": "Montgomery",
+        "region": "Alabama, United States",
+        "arrival": 1766637270000,
+        "location_coords": {
+            "lat": 32.361667,
+            "lng": -86.279167
+        }
+    },
+    {
+        "id": "headland",
+        "city": "Headland",
+        "region": "Alabama, United States",
+        "arrival": 1766637330000,
+        "location_coords": {
+            "lat": 31.353333,
+            "lng": -85.339722
+        }
+    },
+    {
+        "id": "pensacola",
+        "city": "Pensacola",
+        "region": "Florida, United States",
+        "arrival": 1766637390000,
+        "location_coords": {
+            "lat": 30.420845,
+            "lng": -87.217239
+        }
+    },
+    {
+        "id": "canc-n",
+        "city": "Cancún",
+        "region": "Mexico",
+        "arrival": 1766637570000,
+        "location_coords": {
+            "lat": 21.1622,
+            "lng": -86.848228
+        }
+    },
+    {
+        "id": "belize-city",
+        "city": "Belize City",
+        "region": "Belize",
+        "arrival": 1766637720000,
+        "location_coords": {
+            "lat": 17.495621,
+            "lng": -88.18158
+        }
+    },
+    {
+        "id": "tegucigalpa",
+        "city": "Tegucigalpa",
+        "region": "Honduras",
+        "arrival": 1766637840000,
+        "location_coords": {
+            "lat": 14.09506,
+            "lng": -87.211967
+        }
+    },
+    {
+        "id": "san-miguel",
+        "city": "San Miguel",
+        "region": "El Salvador",
+        "arrival": 1766637900000,
+        "location_coords": {
+            "lat": 13.47249,
+            "lng": -88.173393
+        }
+    },
+    {
+        "id": "managua",
+        "city": "Managua",
+        "region": "Nicaragua",
+        "arrival": 1766637990000,
+        "location_coords": {
+            "lat": 12.12884,
+            "lng": -86.253891
+        }
+    },
+    {
+        "id": "lim-n",
+        "city": "Limón",
+        "region": "Costa Rica",
+        "arrival": 1766638140000,
+        "location_coords": {
+            "lat": 9.98845,
+            "lng": -83.037628
+        }
+    },
+    {
+        "id": "panama-city",
+        "city": "Panama City",
+        "region": "Panama",
+        "arrival": 1766638290000,
+        "location_coords": {
+            "lat": 8.96492,
+            "lng": -79.536621
+        }
+    },
+    {
+        "id": "gal-pagos-national-park",
+        "city": "Galápagos National Park",
+        "region": "Ecuador",
+        "arrival": 1766638590000,
+        "location_coords": {
+            "lat": -0.607453,
+            "lng": -91.058233
+        }
+    },
+    {
+        "id": "guatemala",
+        "city": "Guatemala",
+        "region": "Guatemala",
+        "arrival": 1766638980000,
+        "location_coords": {
+            "lat": 14.618,
+            "lng": -90.52491
+        }
+    },
+    {
+        "id": "ciudad-frontera",
+        "city": "Ciudad Frontera",
+        "region": "Mexico",
+        "arrival": 1766639190000,
+        "location_coords": {
+            "lat": 26.926,
+            "lng": -101.449
+        }
+    },
+    {
+        "id": "new-orleans",
+        "city": "New Orleans",
+        "region": "Louisiana, United States",
+        "arrival": 1766639370000,
+        "location_coords": {
+            "lat": 29.9537,
+            "lng": -90.077749
+        }
+    },
+    {
+        "id": "lake-charles",
+        "city": "Lake Charles",
+        "region": "Louisiana, United States",
+        "arrival": 1766639460000,
+        "location_coords": {
+            "lat": 30.214722,
+            "lng": -93.208611
+        }
+    },
+    {
+        "id": "tupelo",
+        "city": "Tupelo",
+        "region": "Mississippi, United States",
+        "arrival": 1766639550000,
+        "location_coords": {
+            "lat": 34.259722,
+            "lng": -88.725833
+        }
+    },
+    {
+        "id": "shreveport",
+        "city": "Shreveport",
+        "region": "Louisiana, United States",
+        "arrival": 1766639670000,
+        "location_coords": {
+            "lat": 32.514615,
+            "lng": -93.747274
+        }
+    },
+    {
+        "id": "eureka-springs",
+        "city": "Eureka Springs",
+        "region": "Arkansas, United States",
+        "arrival": 1766639790000,
+        "location_coords": {
+            "lat": 36.403056,
+            "lng": -93.738333
+        }
+    },
+    {
+        "id": "st-louis",
+        "city": "St. Louis",
+        "region": "Missouri, United States",
+        "arrival": 1766639940000,
+        "location_coords": {
+            "lat": 38.62774,
+            "lng": -90.199514
+        }
+    },
+    {
+        "id": "overland-park",
+        "city": "Overland Park",
+        "region": "Kansas, United States",
+        "arrival": 1766640060000,
+        "location_coords": {
+            "lat": 38.982222,
+            "lng": -94.670833
+        }
+    },
+    {
+        "id": "peoria",
+        "city": "Peoria",
+        "region": "Illinois, United States",
+        "arrival": 1766640210000,
+        "location_coords": {
+            "lat": 40.69214,
+            "lng": -89.587764
+        }
+    },
+    {
+        "id": "des-moines",
+        "city": "Des Moines",
+        "region": "Iowa, United States",
+        "arrival": 1766640330000,
+        "location_coords": {
+            "lat": 41.58979,
+            "lng": -93.615659
+        }
+    },
+    {
+        "id": "munster",
+        "city": "Munster",
+        "region": "Indiana, United States",
+        "arrival": 1766640510000,
+        "location_coords": {
+            "lat": 41.56448,
+            "lng": -87.512541
+        }
+    },
+    {
+        "id": "cedar-rapids",
+        "city": "Cedar Rapids",
+        "region": "Iowa, United States",
+        "arrival": 1766640630000,
+        "location_coords": {
+            "lat": 42.0083,
+            "lng": -91.6439
+        }
+    },
+    {
+        "id": "new-glarus",
+        "city": "New Glarus",
+        "region": "Wisconsin, United States",
+        "arrival": 1766640690000,
+        "location_coords": {
+            "lat": 42.814447,
+            "lng": -89.635122
+        }
+    },
+    {
+        "id": "port-washington",
+        "city": "Port Washington",
+        "region": "Wisconsin, United States",
+        "arrival": 1766640780000,
+        "location_coords": {
+            "lat": 43.393333,
+            "lng": -87.881111
+        }
+    },
+    {
+        "id": "waukesha",
+        "city": "Waukesha",
+        "region": "Wisconsin, United States",
+        "arrival": 1766640840000,
+        "location_coords": {
+            "lat": 43.011667,
+            "lng": -88.231667
+        }
+    },
+    {
+        "id": "chicago",
+        "city": "Chicago",
+        "region": "Illinois, United States",
+        "arrival": 1766640900000,
+        "location_coords": {
+            "lat": 41.88415,
+            "lng": -87.632409
+        }
+    },
+    {
+        "id": "amherst",
+        "city": "Amherst",
+        "region": "Wisconsin, United States",
+        "arrival": 1766641020000,
+        "location_coords": {
+            "lat": 44.450808,
+            "lng": -89.284836
+        }
+    },
+    {
+        "id": "brooklyn-center",
+        "city": "Brooklyn Center",
+        "region": "Minnesota, United States",
+        "arrival": 1766641140000,
+        "location_coords": {
+            "lat": 45.076076,
+            "lng": -93.332728
+        }
+    },
+    {
+        "id": "st-cloud",
+        "city": "St. Cloud",
+        "region": "Minnesota, United States",
+        "arrival": 1766641170000,
+        "location_coords": {
+            "lat": 45.56586,
+            "lng": -94.166697
+        }
+    },
+    {
+        "id": "winnipeg",
+        "city": "Winnipeg",
+        "region": "Manitoba, Canada",
+        "arrival": 1766641290000,
+        "location_coords": {
+            "lat": 49.899753,
+            "lng": -97.137494
+        }
+    },
+    {
+        "id": "sand-lakes-provincial-park",
+        "city": "Sand Lakes Provincial Park",
+        "region": "Manitoba, Canada",
+        "arrival": 1766641470000,
+        "location_coords": {
+            "lat": 57.803964,
+            "lng": -98.707456
+        }
+    },
+    {
+        "id": "prince-albert",
+        "city": "Prince Albert",
+        "region": "Saskatchewan, Canada",
+        "arrival": 1766641605000,
+        "location_coords": {
+            "lat": 53.19945,
+            "lng": -105.745819
+        }
+    },
+    {
+        "id": "moose-jaw",
+        "city": "Moose Jaw",
+        "region": "Saskatchewan, Canada",
+        "arrival": 1766641695000,
+        "location_coords": {
+            "lat": 50.393333,
+            "lng": -105.551944
+        }
+    },
+    {
+        "id": "minot",
+        "city": "Minot",
+        "region": "North Dakota, United States",
+        "arrival": 1766641845000,
+        "location_coords": {
+            "lat": 48.236115,
+            "lng": -101.296074
+        }
+    },
+    {
+        "id": "rapid-city",
+        "city": "Rapid City",
+        "region": "South Dakota, United States",
+        "arrival": 1766641965000,
+        "location_coords": {
+            "lat": 44.081165,
+            "lng": -103.230889
+        }
+    },
+    {
+        "id": "watertown",
+        "city": "Watertown",
+        "region": "South Dakota, United States",
+        "arrival": 1766642085000,
+        "location_coords": {
+            "lat": 44.899409,
+            "lng": -97.115073
+        }
+    },
+    {
+        "id": "rockwell-city",
+        "city": "Rockwell City",
+        "region": "Iowa, United States",
+        "arrival": 1766642235000,
+        "location_coords": {
+            "lat": 42.39833,
+            "lng": -94.630059
+        }
+    },
+    {
+        "id": "pine-bluffs",
+        "city": "Pine Bluffs",
+        "region": "Wyoming, United States",
+        "arrival": 1766642415000,
+        "location_coords": {
+            "lat": 41.179444,
+            "lng": -104.068611
+        }
+    },
+    {
+        "id": "holyoke",
+        "city": "Holyoke",
+        "region": "Colorado, United States",
+        "arrival": 1766642475000,
+        "location_coords": {
+            "lat": 40.581944,
+            "lng": -102.301111
+        }
+    },
+    {
+        "id": "la-vista",
+        "city": "La Vista",
+        "region": "Nebraska, United States",
+        "arrival": 1766642565000,
+        "location_coords": {
+            "lat": 41.184444,
+            "lng": -96.039444
+        }
+    },
+    {
+        "id": "goodland",
+        "city": "Goodland",
+        "region": "Kansas, United States",
+        "arrival": 1766642655000,
+        "location_coords": {
+            "lat": 39.350833,
+            "lng": -101.710278
+        }
+    },
+    {
+        "id": "wichita",
+        "city": "Wichita",
+        "region": "Kansas, United States",
+        "arrival": 1766642715000,
+        "location_coords": {
+            "lat": 37.975278,
+            "lng": -100.864167
+        }
+    },
+    {
+        "id": "tulsa",
+        "city": "Tulsa",
+        "region": "Oklahoma, United States",
+        "arrival": 1766642805000,
+        "location_coords": {
+            "lat": 36.131389,
+            "lng": -95.937222
+        }
+    },
+    {
+        "id": "amarillo",
+        "city": "Amarillo",
+        "region": "Texas, United States",
+        "arrival": 1766642925000,
+        "location_coords": {
+            "lat": 35.207249,
+            "lng": -101.833893
+        }
+    },
+    {
+        "id": "post",
+        "city": "Post",
+        "region": "Texas, United States",
+        "arrival": 1766643015000,
+        "location_coords": {
+            "lat": 33.191667,
+            "lng": -101.380556
+        }
+    },
+    {
+        "id": "dallas",
+        "city": "Dallas",
+        "region": "Texas, United States",
+        "arrival": 1766643105000,
+        "location_coords": {
+            "lat": 32.778155,
+            "lng": -96.795404
+        }
+    },
+    {
+        "id": "houston",
+        "city": "Houston",
+        "region": "Texas, United States",
+        "arrival": 1766643195000,
+        "location_coords": {
+            "lat": 29.76045,
+            "lng": -95.369784
+        }
+    },
+    {
+        "id": "san-marcos",
+        "city": "San Marcos",
+        "region": "Texas, United States",
+        "arrival": 1766643315000,
+        "location_coords": {
+            "lat": 29.879444,
+            "lng": -97.938889
+        }
+    },
+    {
+        "id": "kingsville",
+        "city": "Kingsville",
+        "region": "Texas, United States",
+        "arrival": 1766643360000,
+        "location_coords": {
+            "lat": 27.515,
+            "lng": -97.865556
+        }
+    },
+    {
+        "id": "monterrey",
+        "city": "Monterrey",
+        "region": "Mexico",
+        "arrival": 1766643480000,
+        "location_coords": {
+            "lat": 25.670975,
+            "lng": -100.309959
+        }
+    },
+    {
+        "id": "guadalajara",
+        "city": "Guadalajara",
+        "region": "Mexico",
+        "arrival": 1766643600000,
+        "location_coords": {
+            "lat": 20.68757,
+            "lng": -103.351059
+        }
+    },
+    {
+        "id": "uruapan",
+        "city": "Uruapan",
+        "region": "Mexico",
+        "arrival": 1766643780000,
+        "location_coords": {
+            "lat": 19.420833,
+            "lng": -102.062778
+        }
+    },
+    {
+        "id": "acapulco",
+        "city": "Acapulco",
+        "region": "Mexico",
+        "arrival": 1766643900000,
+        "location_coords": {
+            "lat": 16.850875,
+            "lng": -99.906969
+        }
+    },
+    {
+        "id": "mexico-city",
+        "city": "Mexico City",
+        "region": "Mexico",
+        "arrival": 1766643990000,
+        "location_coords": {
+            "lat": 19.4319,
+            "lng": -99.132851
+        }
+    },
+    {
+        "id": "torreon",
+        "city": "Torreon",
+        "region": "Mexico",
+        "arrival": 1766644230000,
+        "location_coords": {
+            "lat": 25.539444,
+            "lng": -103.448611
+        }
+    },
+    {
+        "id": "chihuahua",
+        "city": "Chihuahua",
+        "region": "Mexico",
+        "arrival": 1766644410000,
+        "location_coords": {
+            "lat": 28.639655,
+            "lng": -106.072059
+        }
+    },
+    {
+        "id": "el-paso",
+        "city": "El Paso",
+        "region": "Texas, United States",
+        "arrival": 1766644590000,
+        "location_coords": {
+            "lat": 31.759167,
+            "lng": -106.488611
+        }
+    },
+    {
+        "id": "santa-fe",
+        "city": "Santa Fe",
+        "region": "New Mexico, United States",
+        "arrival": 1766644740000,
+        "location_coords": {
+            "lat": 35.667222,
+            "lng": -105.964444
+        }
+    },
+    {
+        "id": "durango",
+        "city": "Durango",
+        "region": "Colorado, United States",
+        "arrival": 1766644860000,
+        "location_coords": {
+            "lat": 37.273267,
+            "lng": -107.871692
+        }
+    },
+    {
+        "id": "colorado-springs",
+        "city": "Colorado Springs",
+        "region": "Colorado, United States",
+        "arrival": 1766645010000,
+        "location_coords": {
+            "lat": 38.83345,
+            "lng": -104.821814
+        }
+    },
+    {
+        "id": "estes-park",
+        "city": "Estes Park",
+        "region": "Colorado, United States",
+        "arrival": 1766645100000,
+        "location_coords": {
+            "lat": 40.377117,
+            "lng": -105.525514
+        }
+    },
+    {
+        "id": "moab",
+        "city": "Moab",
+        "region": "Utah, United States",
+        "arrival": 1766645130000,
+        "location_coords": {
+            "lat": 38.5725,
+            "lng": -109.549722
+        }
+    },
+    {
+        "id": "jackson",
+        "city": "Jackson",
+        "region": "Wyoming, United States",
+        "arrival": 1766645250000,
+        "location_coords": {
+            "lat": 43.475278,
+            "lng": -110.769167
+        }
+    },
+    {
+        "id": "billings",
+        "city": "Billings",
+        "region": "Montana, United States",
+        "arrival": 1766645370000,
+        "location_coords": {
+            "lat": 45.783975,
+            "lng": -108.505794
+        }
+    },
+    {
+        "id": "great-falls",
+        "city": "Great Falls",
+        "region": "Montana, United States",
+        "arrival": 1766645490000,
+        "location_coords": {
+            "lat": 47.507145,
+            "lng": -111.306074
+        }
+    },
+    {
+        "id": "calgary",
+        "city": "Calgary",
+        "region": "Alberta, Canada",
+        "arrival": 1766645640000,
+        "location_coords": {
+            "lat": 51.04522,
+            "lng": -114.063014
+        }
+    },
+    {
+        "id": "edmonton",
+        "city": "Edmonton",
+        "region": "Alberta, Canada",
+        "arrival": 1766645760000,
+        "location_coords": {
+            "lat": 53.54622,
+            "lng": -113.490374
+        }
+    },
+    {
+        "id": "fort-mcmurray",
+        "city": "Fort McMurray",
+        "region": "Alberta, Canada",
+        "arrival": 1766645880000,
+        "location_coords": {
+            "lat": 56.72718,
+            "lng": -111.380302
+        }
+    },
+    {
+        "id": "cold-lake",
+        "city": "Cold Lake",
+        "region": "Alberta, Canada",
+        "arrival": 1766646000000,
+        "location_coords": {
+            "lat": 54.45,
+            "lng": -110.166667
+        }
+    },
+    {
+        "id": "yellowknife",
+        "city": "Yellowknife",
+        "region": "Northwest Territories, Canada",
+        "arrival": 1766646180000,
+        "location_coords": {
+            "lat": 62.454485,
+            "lng": -114.370954
+        }
+    },
+    {
+        "id": "tuktut-nogait-national-park",
+        "city": "Tuktut Nogait National Park",
+        "region": "Northwest Territories, Canada",
+        "arrival": 1766646360000,
+        "location_coords": {
+            "lat": 68.830969,
+            "lng": -122.044083
+        }
+    },
+    {
+        "id": "d-l-ne",
+        "city": "Délįne",
+        "region": "Northwest Territories, Canada",
+        "arrival": 1766646480000,
+        "location_coords": {
+            "lat": 65.188004,
+            "lng": -123.417999
+        }
+    },
+    {
+        "id": "fort-st-john",
+        "city": "Fort St. John",
+        "region": "British Columbia, Canada",
+        "arrival": 1766646720000,
+        "location_coords": {
+            "lat": 56.252465,
+            "lng": -120.847459
+        }
+    },
+    {
+        "id": "cranbrook",
+        "city": "Cranbrook",
+        "region": "British Columbia, Canada",
+        "arrival": 1766646960000,
+        "location_coords": {
+            "lat": 49.513502,
+            "lng": -115.768701
+        }
+    },
+    {
+        "id": "missoula",
+        "city": "Missoula",
+        "region": "Montana, United States",
+        "arrival": 1766647050000,
+        "location_coords": {
+            "lat": 46.87278,
+            "lng": -113.996234
+        }
+    },
+    {
+        "id": "coeur-d-alene",
+        "city": "Coeur d'Alene",
+        "region": "Idaho, United States",
+        "arrival": 1766647110000,
+        "location_coords": {
+            "lat": 47.692778,
+            "lng": -116.78
+        }
+    },
+    {
+        "id": "ogden",
+        "city": "Ogden",
+        "region": "Utah, United States",
+        "arrival": 1766647290000,
+        "location_coords": {
+            "lat": 41.227778,
+            "lng": -111.961111
+        }
+    },
+    {
+        "id": "flagstaff",
+        "city": "Flagstaff",
+        "region": "Arizona, United States",
+        "arrival": 1766647470000,
+        "location_coords": {
+            "lat": 35.1982,
+            "lng": -111.651304
+        }
+    },
+    {
+        "id": "goodyear",
+        "city": "Goodyear",
+        "region": "Arizona, United States",
+        "arrival": 1766647560000,
+        "location_coords": {
+            "lat": 33.45,
+            "lng": -112.358333
+        }
+    },
+    {
+        "id": "farmington",
+        "city": "Farmington",
+        "region": "New Mexico, United States",
+        "arrival": 1766647740000,
+        "location_coords": {
+            "lat": 36.751667,
+            "lng": -108.189722
+        }
+    },
+    {
+        "id": "albuquerque",
+        "city": "Albuquerque",
+        "region": "New Mexico, United States",
+        "arrival": 1766647830000,
+        "location_coords": {
+            "lat": 35.110833,
+            "lng": -106.61
+        }
+    },
+    {
+        "id": "tucson",
+        "city": "Tucson",
+        "region": "Arizona, United States",
+        "arrival": 1766647980000,
+        "location_coords": {
+            "lat": 32.221553,
+            "lng": -110.969754
+        }
+    },
+    {
+        "id": "cabo-san-lucas",
+        "city": "Cabo San Lucas",
+        "region": "Mexico",
+        "arrival": 1766648280000,
+        "location_coords": {
+            "lat": 22.880919,
+            "lng": -109.9142
+        }
+    },
+    {
+        "id": "ensenada",
+        "city": "Ensenada",
+        "region": "Mexico",
+        "arrival": 1766648580000,
+        "location_coords": {
+            "lat": 31.7833,
+            "lng": -116.6
+        }
+    },
+    {
+        "id": "san-diego",
+        "city": "San Diego",
+        "region": "California, United States",
+        "arrival": 1766648640000,
+        "location_coords": {
+            "lat": 32.715695,
+            "lng": -117.161719
+        }
+    },
+    {
+        "id": "29-palms",
+        "city": "29 Palms",
+        "region": "California, United States",
+        "arrival": 1766648730000,
+        "location_coords": {
+            "lat": 34.135556,
+            "lng": -116.054167
+        }
+    },
+    {
+        "id": "moreno-valley",
+        "city": "Moreno Valley",
+        "region": "California, United States",
+        "arrival": 1766648790000,
+        "location_coords": {
+            "lat": 33.943056,
+            "lng": -117.228333
+        }
+    },
+    {
+        "id": "anaheim",
+        "city": "Anaheim",
+        "region": "California, United States",
+        "arrival": 1766648850000,
+        "location_coords": {
+            "lat": 33.836111,
+            "lng": -117.889722
+        }
+    },
+    {
+        "id": "las-vegas",
+        "city": "Las Vegas",
+        "region": "Nevada, United States",
+        "arrival": 1766648970000,
+        "location_coords": {
+            "lat": 36.171915,
+            "lng": -115.139974
+        }
+    },
+    {
+        "id": "fresno",
+        "city": "Fresno",
+        "region": "California, United States",
+        "arrival": 1766649180000,
+        "location_coords": {
+            "lat": 36.75,
+            "lng": -119.766667
+        }
+    },
+    {
+        "id": "san-francisco",
+        "city": "San Francisco",
+        "region": "California, United States",
+        "arrival": 1766649300000,
+        "location_coords": {
+            "lat": 37.777125,
+            "lng": -122.419644
+        }
+    },
+    {
+        "id": "elko",
+        "city": "Elko",
+        "region": "Nevada, United States",
+        "arrival": 1766649540000,
+        "location_coords": {
+            "lat": 40.83563,
+            "lng": -115.767629
+        }
+    },
+    {
+        "id": "boise",
+        "city": "Boise",
+        "region": "Idaho, United States",
+        "arrival": 1766649750000,
+        "location_coords": {
+            "lat": 43.615833,
+            "lng": -116.201667
+        }
+    },
+    {
+        "id": "bend",
+        "city": "Bend",
+        "region": "Oregon, United States",
+        "arrival": 1766649870000,
+        "location_coords": {
+            "lat": 44.058173,
+            "lng": -121.31531
+        }
+    },
+    {
+        "id": "tillamook",
+        "city": "Tillamook",
+        "region": "Oregon, United States",
+        "arrival": 1766649960000,
+        "location_coords": {
+            "lat": 45.455278,
+            "lng": -123.8425
+        }
+    },
+    {
+        "id": "portland",
+        "city": "Portland",
+        "region": "Oregon, United States",
+        "arrival": 1766650020000,
+        "location_coords": {
+            "lat": 45.511795,
+            "lng": -122.675629
+        }
+    },
+    {
+        "id": "tacoma",
+        "city": "Tacoma",
+        "region": "Washington, United States",
+        "arrival": 1766650140000,
+        "location_coords": {
+            "lat": 47.241389,
+            "lng": -122.459444
+        }
+    },
+    {
+        "id": "seattle",
+        "city": "Seattle",
+        "region": "Washington, United States",
+        "arrival": 1766650200000,
+        "location_coords": {
+            "lat": 47.603561,
+            "lng": -122.329437
+        }
+    },
+    {
+        "id": "victoria-british-columbia-canada",
+        "city": "Victoria",
+        "region": "British Columbia, Canada",
+        "arrival": 1766650260000,
+        "location_coords": {
+            "lat": 48.428315,
+            "lng": -123.364514
+        }
+    },
+    {
+        "id": "everett",
+        "city": "Everett",
+        "region": "Washington, United States",
+        "arrival": 1766650320000,
+        "location_coords": {
+            "lat": 47.9792,
+            "lng": -122.2008
+        }
+    },
+    {
+        "id": "vancouver",
+        "city": "Vancouver",
+        "region": "British Columbia, Canada",
+        "arrival": 1766650380000,
+        "location_coords": {
+            "lat": 49.260422,
+            "lng": -123.113358
+        }
+    },
+    {
+        "id": "merritt",
+        "city": "Merritt",
+        "region": "British Columbia, Canada",
+        "arrival": 1766650470000,
+        "location_coords": {
+            "lat": 50.111568,
+            "lng": -120.787376
+        }
+    },
+    {
+        "id": "comox",
+        "city": "Comox",
+        "region": "British Columbia, Canada",
+        "arrival": 1766650590000,
+        "location_coords": {
+            "lat": 49.67354,
+            "lng": -124.926819
+        }
+    },
+    {
+        "id": "kitimat",
+        "city": "Kitimat",
+        "region": "British Columbia, Canada",
+        "arrival": 1766650800000,
+        "location_coords": {
+            "lat": 54.055,
+            "lng": -128.65506
+        }
+    },
+    {
+        "id": "juneau",
+        "city": "Juneau",
+        "region": "Alaska, United States",
+        "arrival": 1766651040000,
+        "location_coords": {
+            "lat": 58.29974,
+            "lng": -134.406794
+        }
+    },
+    {
+        "id": "fairbanks",
+        "city": "Fairbanks",
+        "region": "Alaska, United States",
+        "arrival": 1766651520000,
+        "location_coords": {
+            "lat": 64.845085,
+            "lng": -147.722059
+        }
+    },
+    {
+        "id": "anchorage",
+        "city": "Anchorage",
+        "region": "Alaska, United States",
+        "arrival": 1766651700000,
+        "location_coords": {
+            "lat": 61.21755,
+            "lng": -149.858384
+        }
+    },
+    {
+        "id": "nome",
+        "city": "Nome",
+        "region": "Alaska, United States",
+        "arrival": 1766652180000,
+        "location_coords": {
+            "lat": 64.499475,
+            "lng": -165.405794
+        }
+    },
+    {
+        "id": "kodiak",
+        "city": "Kodiak",
+        "region": "Alaska, United States",
+        "arrival": 1766652780000,
+        "location_coords": {
+            "lat": 57.7931,
+            "lng": -152.3942
+        }
+    },
+    {
+        "id": "e-3-sentry-tracking-santa-over-pacific",
+        "city": "E-3 Sentry Tracking Santa over Pacific",
+        "region": "",
+        "arrival": 1766653560000,
+        "location_coords": {
+            "lat": 43.036,
+            "lng": -155.382
+        }
+    },
+    {
+        "id": "princeville",
+        "city": "Princeville",
+        "region": "Kauai, Hawaii, United States",
+        "arrival": 1766654760000,
+        "location_coords": {
+            "lat": 22.223611,
+            "lng": -159.485278
+        }
+    },
+    {
+        "id": "honolulu",
+        "city": "Honolulu",
+        "region": "Hawaii, United States",
+        "arrival": 1766654835000,
+        "location_coords": {
+            "lat": 21.30477,
+            "lng": -157.857614
+        }
+    },
+    {
+        "id": "kula",
+        "city": "Kula",
+        "region": "Maui, Hawaii, United States",
+        "arrival": 1766654895000,
+        "location_coords": {
+            "lat": 20.859092,
+            "lng": -156.508017
+        }
+    },
+    {
+        "id": "hilo",
+        "city": "Hilo",
+        "region": "Hawaii, United States",
+        "arrival": 1766654985000,
+        "location_coords": {
+            "lat": 19.719241,
+            "lng": -155.081858
+        }
+    },
+    {
+        "id": "palmyra-atoll",
+        "city": "Palmyra Atoll",
+        "region": "U.S. Minor Outlying Islands",
+        "arrival": 1766655795000,
+        "location_coords": {
+            "lat": 5.883333,
+            "lng": -162.083333
+        }
+    },
+    {
+        "id": "midway-atoll",
+        "city": "Midway Atoll",
+        "region": "U.S. Minor Outlying Islands",
+        "arrival": 1766656575000,
+        "location_coords": {
+            "lat": 28.207014,
+            "lng": -177.378098
+        }
+    }
+]
